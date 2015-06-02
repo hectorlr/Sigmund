@@ -1,0 +1,12 @@
+applications:
+- services:
+  - Sigmund Insights-personality_insights
+  - Sigmund Insights-MonitoringAndAnalytics
+  disk_quota: 1024M
+  host: Sigmund-Insights
+  name: Sigmund Insights
+  command: node app.js
+  path: .
+  domain: mybluemix.net
+  instances: 1
+  memory: 512M
