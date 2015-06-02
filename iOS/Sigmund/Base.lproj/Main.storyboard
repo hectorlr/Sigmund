@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="7706" systemVersion="14E26a" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="BYZ-38-t0r">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="7703"/>
+        <capability name="Constraints with non-1.0 multipliers" minToolsVersion="5.1"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="Sigmund" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="y3c-jy-aDJ"/>
+                        <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <activityIndicatorView hidden="YES" opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" misplaced="YES" hidesWhenStopped="YES" style="whiteLarge" translatesAutoresizingMaskIntoConstraints="NO" id="AIg-Cw-GPk">
+                                <rect key="frame" x="282" y="132" width="37" height="37"/>
+                                <color key="color" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                            </activityIndicatorView>
+                            <view contentMode="scaleToFill" misplaced="YES" translatesAutoresizingMaskIntoConstraints="NO" id="fDn-ln-E9G">
+                                <rect key="frame" x="25" y="40" width="550" height="220"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumFontSize="5" translatesAutoresizingMaskIntoConstraints="NO" id="pQu-JM-VdV">
+                                        <rect key="frame" x="10" y="10" width="530" height="200"/>
+                                        <color key="backgroundColor" red="0.94509803921568625" green="0.94509803921568625" blue="0.94509803921568625" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                        <color key="textColor" red="0.51372549019607838" green="0.55686274509803924" blue="0.55686274509803924" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                </subviews>
+                                <color key="backgroundColor" red="0.94586116080000004" green="0.94583284850000005" blue="0.94584894180000001" alpha="1" colorSpace="calibratedRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="pQu-JM-VdV" secondAttribute="width" constant="20" id="NO8-4T-qcr"/>
+                                    <constraint firstAttribute="centerX" secondItem="pQu-JM-VdV" secondAttribute="centerX" id="PnM-0m-WJ2"/>
+                                    <constraint firstAttribute="centerY" secondItem="pQu-JM-VdV" secondAttribute="centerY" id="b0B-4X-8YE"/>
+                                    <constraint firstAttribute="height" secondItem="pQu-JM-VdV" secondAttribute="height" constant="20" id="imx-lx-zBQ"/>
+                                </constraints>
+                            </view>
+                            <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" placeholder="Enter Twitter Handle" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="9Az-XS-Sxm" customClass="DesignableTextField" customModule="Sigmund" customModuleProvider="target">
+                                <rect key="frame" x="160" y="280" width="280" height="40"/>
+                                <color key="backgroundColor" red="0.74509803919999995" green="0.73725490199999999" blue="0.73725490199999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="280" id="2tJ-E6-d9L"/>
+                                    <constraint firstAttribute="height" constant="40" id="zQi-fO-VSv"/>
+                                </constraints>
+                                <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits"/>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                        <real key="value" value="3"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
+                                <connections>
+                                    <outlet property="delegate" destination="BYZ-38-t0r" id="xdb-hc-f5W"/>
+                                </connections>
+                            </textField>
+                        </subviews>
+                        <color key="backgroundColor" red="0.77647058820000003" green="0.61176470589999998" blue="0.42745098040000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="fDn-ln-E9G" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="20" id="0jD-pu-m9L"/>
+                            <constraint firstItem="AIg-Cw-GPk" firstAttribute="centerY" secondItem="fDn-ln-E9G" secondAttribute="centerY" id="5E8-gk-kvj"/>
+                            <constraint firstItem="fDn-ln-E9G" firstAttribute="width" secondItem="8bC-Xf-vdC" secondAttribute="width" constant="-50" id="B8N-xb-PrB"/>
+                            <constraint firstAttribute="centerX" secondItem="9Az-XS-Sxm" secondAttribute="centerX" id="K4a-vX-gfV"/>
+                            <constraint firstAttribute="centerX" secondItem="fDn-ln-E9G" secondAttribute="centerX" id="KNH-ef-4rg"/>
+                            <constraint firstItem="9Az-XS-Sxm" firstAttribute="top" secondItem="fDn-ln-E9G" secondAttribute="bottom" constant="20" id="UcJ-fK-J1g"/>
+                            <constraint firstItem="AIg-Cw-GPk" firstAttribute="centerX" secondItem="fDn-ln-E9G" secondAttribute="centerX" id="eGD-Gs-4WU"/>
+                            <constraint firstAttribute="centerY" secondItem="9Az-XS-Sxm" secondAttribute="centerY" id="jgO-3M-5py"/>
+                            <constraint firstItem="fDn-ln-E9G" firstAttribute="height" secondItem="8bC-Xf-vdC" secondAttribute="height" multiplier="1:3" constant="20" id="nlQ-Sc-eb6"/>
+                        </constraints>
+                        <variation key="default">
+                            <mask key="constraints">
+                                <exclude reference="nlQ-Sc-eb6"/>
+                            </mask>
+                        </variation>
+                    </view>
+                    <nil key="simulatedStatusBarMetrics"/>
+                    <connections>
+                        <outlet property="activityIndicator" destination="AIg-Cw-GPk" id="iIb-Nt-UGp"/>
+                        <outlet property="personalityLabel" destination="pQu-JM-VdV" id="kYu-f8-eZD"/>
+                        <outlet property="personalityView" destination="fDn-ln-E9G" id="IOR-s9-EI4"/>
+                        <outlet property="textField" destination="9Az-XS-Sxm" id="AOv-ek-0kb"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+        </scene>
+    </scenes>
+</document>
