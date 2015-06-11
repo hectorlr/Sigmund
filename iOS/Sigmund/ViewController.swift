@@ -16,6 +16,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var personalityView: UIView!
     @IBOutlet weak var activityIndicator: UIActivityIndicatorView!
     @IBOutlet weak var textField: UITextField!
+    var userID: String!
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -23,6 +24,15 @@ class ViewController: UIViewController {
         activityIndicator.startAnimating()
         textField.hidden = true
         setUpTextField()
+        
+        let fbLoginButton = FBSDKLoginButton()
+        fbLoginButton.center = view.center
+        fbLoginButton.setTop(view.center.y + 40.0)
+        fbLoginButton.delegate = self
+        fbLoginButton.readPermissions = ["user_posts"]
+        view.addSubview(fbLoginButton)
+        
+        doTheFacebookThing()
         
         Twitter.sharedInstance().logInGuestWithCompletion { (session: TWTRGuestSession!, error: NSError!) -> Void in
             self.activityIndicator.stopAnimating()
@@ -35,6 +45,74 @@ class ViewController: UIViewController {
             self.textField.becomeFirstResponder()
         }
         // Do any additional setup after loading the view, typically from a nib.
+    }
+    
+    func doTheFacebookThing(){
+        if (FBSDKAccessToken.currentAccessToken() != nil) {
+            let request = FBSDKGraphRequest(graphPath: "me/", parameters: nil, HTTPMethod: "GET")
+            request.startWithCompletionHandler { (connection: FBSDKGraphRequestConnection!, result: AnyObject!, error: NSError!) -> Void in
+                if let userDict = result as? NSDictionary{
+                    self.userID = result["id"] as! String
+                    self.getFeed()
+                }
+            }
+            
+        }
+        
+    }
+    
+    func getFeed(){
+        let request = FBSDKGraphRequest(graphPath: "me/posts", parameters: nil, HTTPMethod: "GET")
+        request.startWithCompletionHandler { (connection: FBSDKGraphRequestConnection!, result: AnyObject!, error: NSError!) -> Void in
+            
+            var posts = result.valueForKey("data") as! [NSDictionary]
+            println(posts.count)
+            var messages = [String]()
+            for post in posts {
+                var id = self.getPostId(post)
+                if id == self.userID && post["message"] != nil {
+                    var message = post["message"] as! String
+                    messages.append(message)
+                    
+                }
+                var commentMessages = self.getAllComments(post)
+                if !commentMessages.isEmpty{
+                    messages += commentMessages
+                }
+            }
+            self.getWatsonInsight(self.userID, strings: messages)
+        }
+    }
+    
+    func getAllComments(parent: AnyObject) -> [String]{
+        if let comments = parent.valueForKey("comments") as? NSDictionary {
+            var commentData = comments.valueForKey("data") as? [NSDictionary]
+            if commentData == nil || commentData!.count == 0 {
+                return []
+            }else{
+                var messages = [String]()
+                for comment in commentData! {
+                    
+                    var id = self.getPostId(comment)
+                    if id == self.userID {
+                        messages.append(comment["message"] as! String)
+                    }
+                    messages += getAllComments(comment)
+                }
+                
+                return messages
+                
+            }
+        }else{
+            return []
+        }
+        
+    }
+    
+    func getPostId(post:NSDictionary) -> String{
+        var from = post.objectForKey("from") as? NSDictionary
+        var id = from?.objectForKey("id") as! String
+        return id
     }
     
     func setUpTextField() {
@@ -87,7 +165,7 @@ class ViewController: UIViewController {
                         }
                     }
                     
-                    self.getWatsonInsight(username, tweets: tweetTexts)
+                    self.getWatsonInsight(username, strings: tweetTexts)
                 }
                 else {
                     println("Error: \(connectionError)")
@@ -99,18 +177,18 @@ class ViewController: UIViewController {
         }
     }
     
-    func getWatsonInsight(username:String, tweets: [String]){
+    func getWatsonInsight(username:String, strings: [String]){
         
         var contentItems : [[String : AnyObject]] = []
         
-        for (index, tweet) in enumerate(tweets) {
+        for (index, string) in enumerate(strings) {
             let contentItem = [
                 "id" : "MYIDoserigjesrgjes\(index)",
                 "userid" : "username",
                 "sourceid" : "twitter",
                 "contenttype" :"text/html",
                 "language" : "en",
-                "content" : tweet]
+                "content" : string]
             
             contentItems.append(contentItem)
         }
@@ -149,6 +227,35 @@ extension ViewController: UITextFieldDelegate {
         self.activityIndicator.startAnimating()
         textField.resignFirstResponder()
         return true
+    }
+}
+
+extension ViewController: FBSDKLoginButtonDelegate {
+    func loginButton(loginButton: FBSDKLoginButton!, didCompleteWithResult result: FBSDKLoginManagerLoginResult!, error: NSError!) {
+        println("User Logged In")
+        let request = FBSDKGraphRequest(graphPath: "me/feed", parameters: nil, HTTPMethod: "GET")
+        request.startWithCompletionHandler { (connection: FBSDKGraphRequestConnection!, result: AnyObject!, error: NSError!) -> Void in
+            self.doTheFacebookThing()
+        }
+        if ((error) != nil)
+        {
+            // Process error
+        }
+        else if result.isCancelled {
+            // Handle cancellations
+        }
+        else {
+            // If you ask for multiple permissions at once, you
+            // should check if specific permissions missing
+            if result.grantedPermissions.contains("email")
+            {
+                // Do work
+            }
+        }
+    }
+    
+    func loginButtonDidLogOut(loginButton: FBSDKLoginButton!) {
+        println("User Logged Out")
     }
 }
 

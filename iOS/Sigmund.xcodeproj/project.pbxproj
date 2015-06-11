@@ -17,11 +17,15 @@
 		052CD98F1B0BDDBC00E1DCB9 /* TwitterKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 052CD98B1B0BDDBC00E1DCB9 /* TwitterKit.framework */; };
 		052CD9901B0BDDBC00E1DCB9 /* TwitterKitResources.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 052CD98C1B0BDDBC00E1DCB9 /* TwitterKitResources.bundle */; };
 		052CD9911B0BDDBC00E1DCB9 /* TwitterCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 052CD98D1B0BDDBC00E1DCB9 /* TwitterCore.framework */; };
+		05751B671B1FA0A600D30E39 /* File in Resources */ = {isa = PBXBuildFile; fileRef = 05751B661B1FA0A600D30E39 /* File */; };
 		059500F41B116A4B0056C5D2 /* UIViewExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 059500F31B116A4B0056C5D2 /* UIViewExtensions.swift */; };
 		059500F91B116A670056C5D2 /* DesignableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 059500F81B116A670056C5D2 /* DesignableView.swift */; };
 		059500FB1B116A9D0056C5D2 /* DesignableTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 059500FA1B116A9D0056C5D2 /* DesignableTextField.swift */; };
 		05E865791B0D32D00091C9E6 /* Alamofire.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 05E865721B0D32C80091C9E6 /* Alamofire.framework */; };
 		05E8657A1B0D32D00091C9E6 /* Alamofire.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 05E865721B0D32C80091C9E6 /* Alamofire.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		05FAE0CE1B1E4BBA0008A24F /* FBSDKCoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 05FAE0CB1B1E4BBA0008A24F /* FBSDKCoreKit.framework */; };
+		05FAE0CF1B1E4BBA0008A24F /* FBSDKLoginKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 05FAE0CC1B1E4BBA0008A24F /* FBSDKLoginKit.framework */; };
+		05FAE0D01B1E4BBA0008A24F /* FBSDKShareKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 05FAE0CD1B1E4BBA0008A24F /* FBSDKShareKit.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -98,10 +102,15 @@
 		052CD98B1B0BDDBC00E1DCB9 /* TwitterKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = TwitterKit.framework; sourceTree = "<group>"; };
 		052CD98C1B0BDDBC00E1DCB9 /* TwitterKitResources.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; name = TwitterKitResources.bundle; path = TwitterKit.framework/Versions/A/Resources/TwitterKitResources.bundle; sourceTree = "<group>"; };
 		052CD98D1B0BDDBC00E1DCB9 /* TwitterCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = TwitterCore.framework; sourceTree = "<group>"; };
+		05751B661B1FA0A600D30E39 /* File */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = File; sourceTree = "<group>"; };
 		059500F31B116A4B0056C5D2 /* UIViewExtensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIViewExtensions.swift; sourceTree = "<group>"; };
 		059500F81B116A670056C5D2 /* DesignableView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DesignableView.swift; sourceTree = "<group>"; };
 		059500FA1B116A9D0056C5D2 /* DesignableTextField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DesignableTextField.swift; sourceTree = "<group>"; };
 		05E8656A1B0D32C80091C9E6 /* Alamofire.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = Alamofire.xcodeproj; path = Alamofire/Alamofire.xcodeproj; sourceTree = "<group>"; };
+		05FAE0CB1B1E4BBA0008A24F /* FBSDKCoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = FBSDKCoreKit.framework; sourceTree = "<group>"; };
+		05FAE0CC1B1E4BBA0008A24F /* FBSDKLoginKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = FBSDKLoginKit.framework; sourceTree = "<group>"; };
+		05FAE0CD1B1E4BBA0008A24F /* FBSDKShareKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = FBSDKShareKit.framework; sourceTree = "<group>"; };
+		05FAE0D21B1E4D560008A24F /* Sigmund-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Sigmund-Bridging-Header.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,7 +118,10 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				05FAE0CE1B1E4BBA0008A24F /* FBSDKCoreKit.framework in Frameworks */,
 				052CD98E1B0BDDBC00E1DCB9 /* Fabric.framework in Frameworks */,
+				05FAE0CF1B1E4BBA0008A24F /* FBSDKLoginKit.framework in Frameworks */,
+				05FAE0D01B1E4BBA0008A24F /* FBSDKShareKit.framework in Frameworks */,
 				052CD9911B0BDDBC00E1DCB9 /* TwitterCore.framework in Frameworks */,
 				052CD98F1B0BDDBC00E1DCB9 /* TwitterKit.framework in Frameworks */,
 				05E865791B0D32D00091C9E6 /* Alamofire.framework in Frameworks */,
@@ -129,6 +141,10 @@
 		052CD95B1B0BDD7800E1DCB9 = {
 			isa = PBXGroup;
 			children = (
+				05751B661B1FA0A600D30E39 /* File */,
+				05FAE0CB1B1E4BBA0008A24F /* FBSDKCoreKit.framework */,
+				05FAE0CC1B1E4BBA0008A24F /* FBSDKLoginKit.framework */,
+				05FAE0CD1B1E4BBA0008A24F /* FBSDKShareKit.framework */,
 				05E8656A1B0D32C80091C9E6 /* Alamofire.xcodeproj */,
 				052CD98A1B0BDDBC00E1DCB9 /* Fabric.framework */,
 				052CD98B1B0BDDBC00E1DCB9 /* TwitterKit.framework */,
@@ -161,6 +177,7 @@
 				052CD9671B0BDD7800E1DCB9 /* Supporting Files */,
 				059500F81B116A670056C5D2 /* DesignableView.swift */,
 				059500FA1B116A9D0056C5D2 /* DesignableTextField.swift */,
+				05FAE0D21B1E4D560008A24F /* Sigmund-Bridging-Header.h */,
 			);
 			path = Sigmund;
 			sourceTree = "<group>";
@@ -248,6 +265,7 @@
 		052CD95C1B0BDD7800E1DCB9 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 0630;
 				ORGANIZATIONNAME = IBM;
 				TargetAttributes = {
@@ -326,6 +344,7 @@
 				052CD96F1B0BDD7800E1DCB9 /* Main.storyboard in Resources */,
 				052CD9741B0BDD7800E1DCB9 /* LaunchScreen.xib in Resources */,
 				052CD9711B0BDD7800E1DCB9 /* Images.xcassets in Resources */,
+				05751B671B1FA0A600D30E39 /* File in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -497,6 +516,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -506,6 +526,8 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "Sigmund/Sigmund-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -514,6 +536,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -523,6 +546,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "Sigmund/Sigmund-Bridging-Header.h";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;

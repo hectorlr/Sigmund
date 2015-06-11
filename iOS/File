@@ -1,0 +1,3136 @@
+Optional((
+{
+actions =         (
+{
+link = "https://www.facebook.com/827722643978094/posts/827358834014475";
+name = Comment;
+},
+{
+link = "https://www.facebook.com/827722643978094/posts/827358834014475";
+name = Like;
+},
+{
+link = "/profile.php?id=7018466&and=100002210988360";
+name = "See Friendship";
+}
+);
+comments =         {
+data =             (
+{
+"can_remove" = 1;
+"created_time" = "2015-06-02T02:03:36+0000";
+from =                     {
+id = 827722643978094;
+name = "Hector Rodriguez Jr.";
+};
+id = "827358834014475_827358887347803";
+"like_count" = 0;
+message = Yup;
+"user_likes" = 0;
+}
+);
+paging =             {
+cursors =                 {
+after = "WTI5dGJXVnVkRjlqZFhKemIzSTZPREkzTXpVNE9EZzNNelEzT0RBek9qRTBNek15TVRBMk1UWT0=";
+before = "WTI5dGJXVnVkRjlqZFhKemIzSTZPREkzTXpVNE9EZzNNelEzT0RBek9qRTBNek15TVRBMk1UWT0=";
+};
+};
+};
+"created_time" = "2015-06-02T02:03:06+0000";
+from =         {
+id = 10103021745704251;
+name = "Ben Bloodworth";
+};
+id = "827722643978094_827358834014475";
+"is_expired" = 0;
+"is_hidden" = 0;
+message = "Are these your headphones? http://electronics.woot.com/offers/audio-technica-professional-studio-monitor-headphones?ref=cnt_dly_wobtn";
+privacy =         {
+allow = "";
+deny = "";
+description = "";
+friends = "";
+value = "";
+};
+"status_type" = "wall_post";
+subscribed = 1;
+to =         {
+data =             (
+{
+id = 827722643978094;
+name = "Hector Rodriguez Jr.";
+}
+);
+};
+type = status;
+"updated_time" = "2015-06-02T02:03:36+0000";
+},
+{
+actions =         (
+{
+link = "https://www.facebook.com/827722643978094/posts/825863310830694";
+name = Comment;
+},
+{
+link = "https://www.facebook.com/827722643978094/posts/825863310830694";
+name = Like;
+}
+);
+application =         {
+id = 124024574287414;
+name = Instagram;
+namespace = instapp;
+};
+caption = "Hector Rodriguez on Instagram: \U201cPasta dinner \Ud83c\Udf5d\U201d";
+"created_time" = "2015-05-31T01:49:48+0000";
+description = "Pasta dinner \Ud83c\Udf5d";
+from =         {
+id = 827722643978094;
+name = "Hector Rodriguez Jr.";
+};
+icon = "https://www.facebook.com/images/icons/post.gif";
+id = "827722643978094_825863310830694";
+"is_expired" = 0;
+"is_hidden" = 0;
+likes =         {
+data =             (
+{
+id = 10152860780936975;
+name = "Kristin Alt";
+},
+{
+id = 10155637947000137;
+name = "Wil Sal";
+},
+{
+id = 10205923108453495;
+name = "Bernadette Josephs";
+},
+{
+id = 2369909018914;
+name = "Brett Waggoner";
+},
+{
+id = 10206818302766105;
+name = "Cindy Rodriguez-Salcedo";
+},
+{
+id = 10206946634969704;
+name = "Hector L. Rodriguez";
+},
+{
+id = 10205404388401408;
+name = "Charlie Whiskey";
+}
+);
+paging =             {
+cursors =                 {
+after = "MTAyMDU0MDQzODg0MDE0MDg=";
+before = "MTAxNTI4NjA3ODA5MzY5NzU=";
+};
+};
+};
+link = "https://www.facebook.com/photo.php?fbid=825863314164027&set=a.318237421593288.76044.100002210988360&type=1";
+message = "Pasta dinner \Ud83c\Udf5d";
+name = "Hector Rodriguez on Instagram: \U201cPasta dinner \Ud83c\Udf5d\U201d";
+"object_id" = 825863314164027;
+picture = "https://scontent.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/p130x130/10982361_825863314164027_6885153752435499785_n.jpg?oh=646e3e37d62d3e114c0db4affd3b98bf&oe=55ED83AB";
+privacy =         {
+allow = "";
+deny = "";
+description = "Your friends";
+friends = "";
+value = "ALL_FRIENDS";
+};
+"status_type" = "added_photos";
+subscribed = 1;
+type = photo;
+"updated_time" = "2015-05-31T01:49:48+0000";
+},
+{
+actions =         (
+{
+link = "https://www.facebook.com/827722643978094/posts/824939897589702";
+name = Comment;
+},
+{
+link = "https://www.facebook.com/827722643978094/posts/824939897589702";
+name = Like;
+}
+);
+comments =         {
+data =             (
+{
+"can_remove" = 1;
+"created_time" = "2015-05-30T00:30:56+0000";
+from =                     {
+id = 10205923108453495;
+name = "Bernadette Josephs";
+};
+id = "824939897589702_824950844255274";
+"like_count" = 1;
+message = "So cool!";
+"user_likes" = 1;
+},
+{
+"can_remove" = 1;
+"created_time" = "2015-05-30T03:53:32+0000";
+from =                     {
+id = 10103021745704251;
+name = "Ben Bloodworth";
+};
+id = "824939897589702_825132430903782";
+"like_count" = 1;
+message = "Oooh. So clean!";
+"user_likes" = 1;
+}
+);
+paging =             {
+cursors =                 {
+after = "WTI5dGJXVnVkRjlqZFhKemIzSTZPREkxTVRNeU5ETXdPVEF6TnpneU9qRTBNekk1TlRnd01UST0=";
+before = "WTI5dGJXVnVkRjlqZFhKemIzSTZPREkwT1RVd09EUTBNalUxTWpjME9qRTBNekk1TkRVNE5UYz0=";
+};
+};
+};
+"created_time" = "2015-05-29T23:32:23+0000";
+from =         {
+id = 827722643978094;
+name = "Hector Rodriguez Jr.";
+};
+id = "827722643978094_824939897589702";
+"is_expired" = 0;
+"is_hidden" = 0;
+likes =         {
+data =             (
+{
+id = 10205875294574701;
+name = "David H. Fruhling II";
+},
+{
+id = 10155675709425512;
+name = "Kyle Craig";
+},
+{
+id = 10153663760321777;
+name = "Aide Gtz";
+},
+{
+id = 10103021745704251;
+name = "Ben Bloodworth";
+},
+{
+id = 10152836491027595;
+name = "Nathan Hekman";
+},
+{
+id = 10153051884234965;
+name = "Jacob Cummings";
+},
+{
+id = 10205660958277751;
+name = "Taylor Franklin";
+},
+{
+id = 10206771981288891;
+name = "Jon Ballands";
+},
+{
+id = 10152886533406752;
+name = "Gary Cooper Jr.";
+},
+{
+id = 10207288661881840;
+name = "Rafael Benitez";
+},
+{
+id = 10206910966231724;
+name = "Jessica Leavitt";
+},
+{
+id = 10206946634969704;
+name = "Hector L. Rodriguez";
+},
+{
+id = 10155577786225251;
+name = "Jessa West";
+},
+{
+id = 10205923108453495;
+name = "Bernadette Josephs";
+},
+{
+id = 10204584504228811;
+name = "Sean Saathoff";
+},
+{
+id = 10207442668931276;
+name = "Chuck Imperato";
+},
+{
+id = 10103021745709241;
+name = "Bethany Heck";
+}
+);
+paging =             {
+cursors =                 {
+after = "MTAxMDMwMjE3NDU3MDkyNDE=";
+before = "MTAyMDU4NzUyOTQ1NzQ3MDE=";
+};
+};
+};
+message = "Check out screenshots from my latest personal iOS/Apple Watch project- Branch For Nest \n\nhttp://www.imgur.com/a/GKXXT";
+privacy =         {
+allow = "";
+deny = "";
+description = "Your friends";
+friends = "";
+value = "ALL_FRIENDS";
+};
+"status_type" = "mobile_status_update";
+subscribed = 1;
+type = status;
+"updated_time" = "2015-05-30T03:53:32+0000";
+},
+{
+actions =         (
+{
+link = "https://www.facebook.com/827722643978094/posts/824818087601883";
+name = Comment;
+},
+{
+link = "https://www.facebook.com/827722643978094/posts/824818087601883";
+name = Like;
+}
+);
+"created_time" = "2015-05-29T17:27:15+0000";
+from =         {
+id = 827722643978094;
+name = "Hector Rodriguez Jr.";
+};
+id = "827722643978094_824818087601883";
+"is_expired" = 0;
+"is_hidden" = 0;
+likes =         {
+data =             (
+{
+id = 788932036902;
+name = "Jim Avery";
+},
+{
+id = 10153115031752599;
+name = "Carmen Salcedo";
+},
+{
+id = 10205923108453495;
+name = "Bernadette Josephs";
+}
+);
+paging =             {
+cursors =                 {
+after = "MTAyMDU5MjMxMDg0NTM0OTU=";
+before = Nzg4OTMyMDM2OTAy;
+};
+};
+};
+link = "https://www.facebook.com/ibmmil/photos/a.401720683362922.1073741831.392638644271126/401720693362921/?type=1";
+name = "IBM Mobile Innovation Lab";
+"object_id" = 401720693362921;
+picture = "https://scontent.xx.fbcdn.net/hphotos-xat1/v/t1.0-9/s130x130/11377341_401720693362921_1194799243928377166_n.jpg?oh=e8eca4da874485533b9ca34e8b6eede0&oe=55F99497";
+privacy =         {
+allow = "";
+deny = "";
+description = "Your friends";
+friends = "";
+value = "ALL_FRIENDS";
+};
+"status_type" = "mobile_status_update";
+story = "Hector Rodriguez Jr. shared IBM Mobile Innovation Lab's album.";
+"story_tags" =         {
+0 =             (
+{
+id = 827722643978094;
+length = 20;
+name = "Hector Rodriguez Jr.";
+offset = 0;
+type = user;
+}
+);
+28 =             (
+{
+id = 392638644271126;
+length = 25;
+name = "IBM Mobile Innovation Lab";
+offset = 28;
+type = page;
+}
+);
+};
+subscribed = 1;
+type = photo;
+"updated_time" = "2015-05-29T17:27:15+0000";
+},
+{
+application =         {
+id = 213546525407071;
+name = iOS;
+};
+"created_time" = "2015-05-28T12:41:51+0000";
+from =         {
+id = 3715047200079;
+name = "Katherine Rainey";
+};
+icon = "https://www.facebook.com/images/icons/photo.gif";
+id = "3715047200079_3709677105830";
+"is_expired" = 0;
+"is_hidden" = 0;
+link = "https://www.facebook.com/photo.php?fbid=3709677105830&set=p.3709677105830&type=1";
+"object_id" = 3709677105830;
+picture = "https://scontent.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/s130x130/10405297_3709677105830_4987999245648533123_n.jpg?oh=70d1732df8138e1f5143fbd40c69bc1b&oe=55EC8A6C";
+privacy =         {
+allow = "";
+deny = "";
+description = "";
+friends = "";
+value = "";
+};
+"status_type" = "added_photos";
+story = "Katherine Rainey added 3 new photos \U2014 with Sean Saathoff and 2 others.";
+"story_tags" =         {
+0 =             (
+{
+id = 3715047200079;
+length = 16;
+name = "Katherine Rainey";
+offset = 0;
+type = user;
+}
+);
+43 =             (
+{
+id = 10204584504228811;
+length = 13;
+name = "Sean Saathoff";
+offset = 43;
+type = user;
+}
+);
+61 =             (
+{
+id = 10152836491027595;
+length = 8;
+name = "Nathan Hekman";
+offset = 61;
+type = user;
+},
+{
+id = 827722643978094;
+length = 8;
+name = "Hector Rodriguez Jr.";
+offset = 61;
+type = user;
+}
+);
+};
+type = photo;
+"updated_time" = "2015-05-28T12:41:51+0000";
+"with_tags" =         {
+data =             (
+{
+id = 10204584504228811;
+name = "Sean Saathoff";
+},
+{
+id = 10152836491027595;
+name = "Nathan Hekman";
+},
+{
+id = 827722643978094;
+name = "Hector Rodriguez Jr.";
+}
+);
+};
+},
+{
+actions =         (
+{
+link = "https://www.facebook.com/827722643978094/posts/823763361040689";
+name = Comment;
+},
+{
+link = "https://www.facebook.com/827722643978094/posts/823763361040689";
+name = Like;
+}
+);
+caption = "youtu.be";
+comments =         {
+data =             (
+{
+"can_remove" = 1;
+"created_time" = "2015-05-27T17:49:31+0000";
+from =                     {
+id = 10102093854401045;
+name = "Belinda Rodriguez";
+};
+id = "823763361040689_823770324373326";
+"like_count" = 2;
+message = "\"Seriously... Woke up like this!\" \Ud83d\Ude02 \n\nI started blow drying my hair to make it \"bigger.\" On Saturday, Justine and Larisa got a show! They are honorary members of the Curly Hair Club.";
+"message_tags" =                     (
+{
+id = 935367066514917;
+length = 7;
+name = Justine;
+offset = 102;
+type = user;
+},
+{
+id = 10205369488211279;
+length = 6;
+name = Larisa;
+offset = 114;
+type = user;
+}
+);
+"user_likes" = 0;
+},
+{
+"can_remove" = 1;
+"created_time" = "2015-05-28T00:28:34+0000";
+from =                     {
+id = 10205923108453495;
+name = "Bernadette Josephs";
+};
+id = "823763361040689_823918167691875";
+"like_count" = 0;
+message = "I've decided to upgrade my hairpins. I use these wrapped in half...  They are less likely to break #curlyhairproblems";
+"user_likes" = 0;
+},
+{
+"can_remove" = 1;
+"created_time" = "2015-05-28T00:44:16+0000";
+from =                     {
+id = 827722643978094;
+name = "Hector Rodriguez Jr.";
+};
+id = "823763361040689_823921157691576";
+"like_count" = 1;
+message = "I use those to pull my hair back out of my face";
+"user_likes" = 0;
+},
+{
+"can_remove" = 1;
+"created_time" = "2015-05-28T00:52:04+0000";
+from =                     {
+id = 10206818302766105;
+name = "Cindy Rodriguez-Salcedo";
+};
+id = "823763361040689_823922434358115";
+"like_count" = 1;
+message = "Oh the joys of this  crazy hair";
+"user_likes" = 0;
+},
+{
+"can_remove" = 1;
+"created_time" = "2015-05-28T00:56:53+0000";
+from =                     {
+id = 10102093854401045;
+name = "Belinda Rodriguez";
+};
+id = "823763361040689_823923027691389";
+"like_count" = 1;
+message = "Whoa!";
+"user_likes" = 0;
+}
+);
+paging =             {
+cursors =                 {
+after = "WTI5dGJXVnVkRjlqZFhKemIzSTZPREl6T1RJek1ESTNOamt4TXpnNU9qRTBNekkzTnpRMk1UTT0=";
+before = "WTI5dGJXVnVkRjlqZFhKemIzSTZPREl6Tnpjd016STBNemN6TXpJMk9qRTBNekkzTkRnNU56RT0=";
+};
+};
+};
+"created_time" = "2015-05-27T17:22:51+0000";
+description = "Seriously, you woke up like this. Check out more awesome BuzzFeedYellow videos! http://bit.ly/YTbuzzfeedyellow MUSIC \"Sombre, Green\" Birocratic https://biroc...";
+from =         {
+id = 827722643978094;
+name = "Hector Rodriguez Jr.";
+};
+icon = "https://www.facebook.com/images/icons/post.gif";
+id = "827722643978094_823763361040689";
+"is_expired" = 0;
+"is_hidden" = 0;
+likes =         {
+data =             (
+{
+id = 10155577786225251;
+name = "Jessa West";
+},
+{
+id = 10205923108453495;
+name = "Bernadette Josephs";
+}
+);
+paging =             {
+cursors =                 {
+after = "MTAyMDU5MjMxMDg0NTM0OTU=";
+before = "MTAxNTU1Nzc3ODYyMjUyNTE=";
+};
+};
+};
+link = "https://youtu.be/DXSS5OkKUL0";
+message = "Bernadette, Belinda, Cindy\n\nTrue life for us. (Minus the part about only girls)\n\n";
+"message_tags" =         {
+0 =             (
+{
+id = 10205923108453495;
+length = 10;
+name = "Bernadette Josephs";
+offset = 0;
+type = user;
+}
+);
+12 =             (
+{
+id = 10102093854401045;
+length = 7;
+name = "Belinda Rodriguez";
+offset = 12;
+type = user;
+}
+);
+21 =             (
+{
+id = 10206818302766105;
+length = 5;
+name = "Cindy Rodriguez-Salcedo";
+offset = 21;
+type = user;
+}
+);
+};
+name = "Problems Only Girls With Curly Hair Understand";
+privacy =         {
+allow = "";
+deny = "";
+description = "Your friends";
+friends = "";
+value = "ALL_FRIENDS";
+};
+source = "https://www.youtube.com/embed/DXSS5OkKUL0?autoplay=1";
+"status_type" = "shared_story";
+subscribed = 1;
+to =         {
+data =             (
+{
+id = 10205923108453495;
+name = "Bernadette Josephs";
+},
+{
+id = 10102093854401045;
+name = "Belinda Rodriguez";
+},
+{
+id = 10206818302766105;
+name = "Cindy Rodriguez-Salcedo";
+}
+);
+};
+type = video;
+"updated_time" = "2015-05-28T00:56:53+0000";
+},
+{
+actions =         (
+{
+link = "https://www.facebook.com/827722643978094/posts/823444194405939";
+name = Comment;
+},
+{
+link = "https://www.facebook.com/827722643978094/posts/823444194405939";
+name = Like;
+}
+);
+application =         {
+id = 124024574287414;
+name = Instagram;
+namespace = instapp;
+};
+caption = "Hector Rodriguez on Instagram: \U201cCan't believe how fast these cucumber seeds are growing. Just one week old.\U201d";
+comments =         {
+data =             (
+{
+"can_remove" = 1;
+"created_time" = "2015-05-26T22:09:35+0000";
+from =                     {
+id = 10205923108453495;
+name = "Bernadette Josephs";
+};
+id = "823444201072605_823445157739176";
+"like_count" = 0;
+message = "And I'm sure all that rain is helping a lot!!";
+"user_likes" = 0;
+}
+);
+paging =             {
+cursors =                 {
+after = "WTI5dGJXVnVkRjlqZFhKemIzSTZPREl6TkRRMU1UVTNOek01TVRjMk9qRTBNekkyTnpneE56WT0=";
+before = "WTI5dGJXVnVkRjlqZFhKemIzSTZPREl6TkRRMU1UVTNOek01TVRjMk9qRTBNekkyTnpneE56WT0=";
+};
+};
+};
+"created_time" = "2015-05-26T22:04:09+0000";
+description = "Can't believe how fast these cucumber seeds are growing. Just one week old.";
+from =         {
+id = 827722643978094;
+name = "Hector Rodriguez Jr.";
+};
+icon = "https://www.facebook.com/images/icons/post.gif";
+id = "827722643978094_823444194405939";
+"is_expired" = 0;
+"is_hidden" = 0;
+likes =         {
+data =             (
+{
+id = 10152835252765658;
+name = "Andrea Giovine";
+},
+{
+id = 10203130339698415;
+name = "Ruben Gonzales";
+},
+{
+id = 10153477929045864;
+name = "Matthew Perez";
+},
+{
+id = 10155637947000137;
+name = "Wil Sal";
+},
+{
+id = 10204446502507413;
+name = "Sergio Montiel";
+},
+{
+id = 10206946634969704;
+name = "Hector L. Rodriguez";
+},
+{
+id = 10103021745709241;
+name = "Bethany Heck";
+},
+{
+id = 831815940188743;
+name = "Darius Sutton";
+},
+{
+id = 10103042232533707;
+name = "Blake Ball";
+},
+{
+id = 456881171160234;
+name = "Carmen Rodriguez";
+},
+{
+id = 956056601082973;
+name = "Irene Rodriguez";
+},
+{
+id = 1001530723190268;
+name = "Sarah Garza";
+},
+{
+id = 10102093854401045;
+name = "Belinda Rodriguez";
+},
+{
+id = 10205923108453495;
+name = "Bernadette Josephs";
+},
+{
+id = 2369909018914;
+name = "Brett Waggoner";
+}
+);
+paging =             {
+cursors =                 {
+after = "MjM2OTkwOTAxODkxNA==";
+before = "MTAxNTI4MzUyNTI3NjU2NTg=";
+};
+};
+};
+link = "https://www.facebook.com/photo.php?fbid=823444201072605&set=a.318237421593288.76044.100002210988360&type=1";
+message = "Can't believe how fast these cucumber seeds are growing. Just one week old.";
+name = "Hector Rodriguez on Instagram: \U201cCan't believe how fast these cucumber seeds are growing. Just one week old.\U201d";
+"object_id" = 823444201072605;
+picture = "https://scontent.xx.fbcdn.net/hphotos-xtf1/v/t1.0-9/p130x130/22200_823444201072605_3921314452594163683_n.jpg?oh=1bbc3190de115d3dd92dd30024acce9d&oe=560578FC";
+privacy =         {
+allow = "";
+deny = "";
+description = "Your friends";
+friends = "";
+value = "ALL_FRIENDS";
+};
+"status_type" = "added_photos";
+subscribed = 1;
+type = photo;
+"updated_time" = "2015-05-26T22:36:15+0000";
+},
+{
+actions =         (
+{
+link = "https://www.facebook.com/827722643978094/posts/822462384504120";
+name = Comment;
+},
+{
+link = "https://www.facebook.com/827722643978094/posts/822462384504120";
+name = Like;
+}
+);
+application =         {
+id = 124024574287414;
+name = Instagram;
+namespace = instapp;
+};
+caption = "Hector Rodriguez on Instagram: \U201cNot my photos but this is the before and after of the Pedernales River after the rain we got last night. Hopefully this continues so Texas\U2026\U201d";
+comments =         {
+data =             (
+{
+"can_remove" = 1;
+"created_time" = "2015-05-24T14:58:34+0000";
+from =                     {
+id = 10103042232533707;
+name = "Blake Ball";
+};
+id = "822462404504118_822487951168230";
+"like_count" = 0;
+message = "Esta loco!";
+"user_likes" = 0;
+},
+{
+"can_remove" = 1;
+"created_time" = "2015-05-24T16:45:01+0000";
+from =                     {
+id = 10103021745704251;
+name = "Ben Bloodworth";
+};
+id = "822462404504118_822516721165353";
+"like_count" = 0;
+message = "Lake Travis is over 50% full for the first time since 2011!";
+"user_likes" = 0;
+},
+{
+"can_remove" = 1;
+"created_time" = "2015-05-24T18:11:22+0000";
+from =                     {
+id = 10152824674691671;
+name = "Alex Buck";
+};
+id = "822462404504118_822534977830194";
+"like_count" = 0;
+message = "You guys see this? Jacob Cummings Nathan Hekman Tanner Preiss";
+"message_tags" =                     (
+{
+id = 10153051884234965;
+length = 14;
+name = "Jacob Cummings";
+offset = 19;
+type = user;
+},
+{
+id = 10152836491027595;
+length = 13;
+name = "Nathan Hekman";
+offset = 34;
+type = user;
+},
+{
+id = 10152847541708038;
+length = 13;
+name = "Tanner Preiss";
+offset = 48;
+type = user;
+}
+);
+"user_likes" = 0;
+},
+{
+"can_remove" = 1;
+"created_time" = "2015-05-24T18:28:17+0000";
+from =                     {
+id = 10152836491027595;
+name = "Nathan Hekman";
+};
+id = "822462404504118_822538947829797";
+"like_count" = 0;
+message = "Insane in the membrane";
+"user_likes" = 0;
+},
+{
+"can_remove" = 1;
+"created_time" = "2015-05-24T18:29:10+0000";
+from =                     {
+id = 10152824674691671;
+name = "Alex Buck";
+};
+id = "822462404504118_822539097829782";
+"like_count" = 0;
+message = "I remember they warned us of the possibility of it flash flooding at any time... Now I know they were serious";
+"user_likes" = 0;
+},
+{
+"can_remove" = 1;
+"created_time" = "2015-05-24T21:00:20+0000";
+from =                     {
+id = 10153051884234965;
+name = "Jacob Cummings";
+};
+id = "822462404504118_822572794493079";
+"like_count" = 0;
+message = Damn;
+"user_likes" = 0;
+}
+);
+paging =             {
+cursors =                 {
+after = "WTI5dGJXVnVkRjlqZFhKemIzSTZPREl5TlRjeU56azBORGt6TURjNU9qRTBNekkxTURFeU1qQT0=";
+before = "WTI5dGJXVnVkRjlqZFhKemIzSTZPREl5TkRnM09UVXhNVFk0TWpNd09qRTBNekkwTnprMU1UUT0=";
+};
+};
+};
+"created_time" = "2015-05-24T13:52:17+0000";
+description = "Not my photos but this is the before and after of the Pedernales River after the rain we got last night. Hopefully this continues so Texas can get out of this drought.";
+from =         {
+id = 827722643978094;
+name = "Hector Rodriguez Jr.";
+};
+icon = "https://www.facebook.com/images/icons/post.gif";
+id = "827722643978094_822462384504120";
+"is_expired" = 0;
+"is_hidden" = 0;
+likes =         {
+data =             (
+{
+id = 10200555924658612;
+name = "Mary Collins";
+},
+{
+id = 3664400450872;
+name = "Danielle Elizabeth";
+},
+{
+id = 10153391632618734;
+name = "M\U00e5tt H\U00eb\U00f1ry";
+},
+{
+id = 10155615452545371;
+name = "Martine Braddy";
+},
+{
+id = 10153051884234965;
+name = "Jacob Cummings";
+},
+{
+id = 10204317581765850;
+name = "Harrison Saylor";
+},
+{
+id = 10103021745704251;
+name = "Ben Bloodworth";
+},
+{
+id = 10203130339698415;
+name = "Ruben Gonzales";
+},
+{
+id = 10204446502507413;
+name = "Sergio Montiel";
+},
+{
+id = 956056601082973;
+name = "Irene Rodriguez";
+},
+{
+id = 1581288742146850;
+name = "Dylan Salcedo";
+},
+{
+id = 10206818302766105;
+name = "Cindy Rodriguez-Salcedo";
+},
+{
+id = 10204584504228811;
+name = "Sean Saathoff";
+},
+{
+id = 10153663760321777;
+name = "Aide Gtz";
+},
+{
+id = 10103042232533707;
+name = "Blake Ball";
+},
+{
+id = 10106630308859774;
+name = "Tania Corina Zanabria";
+},
+{
+id = 10155636883235503;
+name = "Lurene Tapia";
+},
+{
+id = 10155637947000137;
+name = "Wil Sal";
+}
+);
+paging =             {
+cursors =                 {
+after = "MTAxNTU2Mzc5NDcwMDAxMzc=";
+before = "MTAyMDA1NTU5MjQ2NTg2MTI=";
+};
+};
+};
+link = "https://www.facebook.com/photo.php?fbid=822462404504118&set=a.318237421593288.76044.100002210988360&type=1";
+message = "Not my photos but this is the before and after of the Pedernales River after the rain we got last night. Hopefully this continues so Texas can get out of this drought.";
+name = "Hector Rodriguez on Instagram: \U201cNot my photos but this is the before and after of the Pedernales River after the rain we got last night. Hopefully this continues so Texas\U2026\U201d";
+"object_id" = 822462404504118;
+picture = "https://scontent.xx.fbcdn.net/hphotos-xfa1/v/t1.0-9/p130x130/10313856_822462404504118_4317136506064884376_n.jpg?oh=5980951f1d7c13dbab7ec71502b66871&oe=560961DB";
+privacy =         {
+allow = "";
+deny = "";
+description = "Your friends";
+friends = "";
+value = "ALL_FRIENDS";
+};
+"status_type" = "added_photos";
+subscribed = 1;
+type = photo;
+"updated_time" = "2015-05-24T21:00:20+0000";
+},
+{
+actions =         (
+{
+link = "https://www.facebook.com/827722643978094/posts/822308271186198";
+name = Comment;
+},
+{
+link = "https://www.facebook.com/827722643978094/posts/822308271186198";
+name = Like;
+}
+);
+application =         {
+id = 124024574287414;
+name = Instagram;
+namespace = instapp;
+};
+caption = "Hector Rodriguez on Instagram: \U201cA quick icon for a hack week app I made at work. The app pulls in your tweets and gives you a personality assessment via IBM Watson.\U201d";
+"created_time" = "2015-05-24T01:53:11+0000";
+description = "A quick icon for a hack week app I made at work called Sigmund. The app pulls in your tweets and gives you a personality assessment via IBM Watson.";
+from =         {
+id = 827722643978094;
+name = "Hector Rodriguez Jr.";
+};
+icon = "https://www.facebook.com/images/icons/post.gif";
+id = "827722643978094_822308271186198";
+"is_expired" = 0;
+"is_hidden" = 0;
+link = "https://www.facebook.com/photo.php?fbid=822308274519531&set=a.318237421593288.76044.100002210988360&type=1";
+message = "A quick icon for a hack week app I made at work called Sigmund. The app pulls in your tweets and gives you a personality assessment via IBM Watson.";
+name = "Hector Rodriguez on Instagram: \U201cA quick icon for a hack week app I made at work. The app pulls in your tweets and gives you a personality assessment via IBM Watson.\U201d";
+"object_id" = 822308274519531;
+picture = "https://scontent.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/p130x130/1545688_822308274519531_3376752940441627189_n.jpg?oh=d5bdf4bb55b90be522520aedc03bbafd&oe=55BEC996";
+privacy =         {
+allow = "";
+deny = "";
+description = "Your friends";
+friends = "";
+value = "ALL_FRIENDS";
+};
+"status_type" = "added_photos";
+subscribed = 1;
+type = photo;
+"updated_time" = "2015-05-24T16:11:36+0000";
+},
+{
+actions =         (
+{
+link = "https://www.facebook.com/827722643978094/posts/821940444556314";
+name = Comment;
+},
+{
+link = "https://www.facebook.com/827722643978094/posts/821940444556314";
+name = Like;
+},
+{
+link = "/profile.php?id=688507605&and=100002210988360";
+name = "See Friendship";
+}
+);
+"created_time" = "2015-05-22T23:24:11+0000";
+from =         {
+id = 10152881399322606;
+name = "Frank Mendez";
+};
+id = "827722643978094_821940444556314";
+"is_expired" = 0;
+"is_hidden" = 0;
+message = "Senor Hector, what's going on buddy? Need an update in your life";
+privacy =         {
+allow = "";
+deny = "";
+description = "";
+friends = "";
+value = "";
+};
+"status_type" = "wall_post";
+subscribed = 1;
+to =         {
+data =             (
+{
+id = 827722643978094;
+name = "Hector Rodriguez Jr.";
+}
+);
+};
+type = status;
+"updated_time" = "2015-05-22T23:24:11+0000";
+},
+{
+actions =         (
+{
+link = "https://www.facebook.com/827722643978094/posts/821918957891796";
+name = Comment;
+},
+{
+link = "https://www.facebook.com/827722643978094/posts/821918957891796";
+name = Like;
+}
+);
+application =         {
+id = 124024574287414;
+name = Instagram;
+namespace = instapp;
+};
+caption = "Hector Rodriguez on Instagram: \U201cSo many cool views!!!\U201d";
+"created_time" = "2015-05-22T22:17:07+0000";
+description = "So many cool views!!!";
+from =         {
+id = 827722643978094;
+name = "Hector Rodriguez Jr.";
+};
+icon = "https://www.facebook.com/images/icons/post.gif";
+id = "827722643978094_821918957891796";
+"is_expired" = 0;
+"is_hidden" = 0;
+likes =         {
+data =             (
+{
+id = 10203130339698415;
+name = "Ruben Gonzales";
+},
+{
+id = 10155637947000137;
+name = "Wil Sal";
+},
+{
+id = 10100210326027585;
+name = "Corey Simmons";
+},
+{
+id = 10206946634969704;
+name = "Hector L. Rodriguez";
+},
+{
+id = 1018931718118042;
+name = "Paul Vollmer";
+},
+{
+id = 3866511783132;
+name = "Ellen Saathoff";
+},
+{
+id = 10205923108453495;
+name = "Bernadette Josephs";
+},
+{
+id = 848353585199737;
+name = "Jose Noel Franceschini";
+},
+{
+id = 10155577786225251;
+name = "Jessa West";
+},
+{
+id = 10152917635766938;
+name = "Melina Khat";
+},
+{
+id = 10152900176643059;
+name = "Clair Daly";
+},
+{
+id = 10153450569757216;
+name = "Jamie Richardson";
+},
+{
+id = 10204497513222252;
+name = "Miranda Blanco";
+},
+{
+id = 831815940188743;
+name = "Darius Sutton";
+},
+{
+id = 10206266292391679;
+name = "Becca Gutierrez";
+},
+{
+id = 10153087709068962;
+name = "Taffie Coler";
+},
+{
+id = 1581288742146850;
+name = "Dylan Salcedo";
+},
+{
+id = 10206771981288891;
+name = "Jon Ballands";
+},
+{
+id = 2369909018914;
+name = "Brett Waggoner";
+},
+{
+id = 10152860780936975;
+name = "Kristin Alt";
+},
+{
+id = 10204446502507413;
+name = "Sergio Montiel";
+},
+{
+id = 10153301606436223;
+name = "Micky Benthall";
+},
+{
+id = 10103042232533707;
+name = "Blake Ball";
+}
+);
+paging =             {
+cursors =                 {
+after = "MTAxMDMwNDIyMzI1MzM3MDc=";
+before = "MTAyMDMxMzAzMzk2OTg0MTU=";
+};
+};
+};
+link = "https://www.facebook.com/photo.php?fbid=821918961225129&set=a.318237421593288.76044.100002210988360&type=1";
+message = "So many cool views!!!";
+name = "Hector Rodriguez on Instagram: \U201cSo many cool views!!!\U201d";
+"object_id" = 821918961225129;
+picture = "https://scontent.xx.fbcdn.net/hphotos-xat1/v/t1.0-9/p130x130/11109593_821918961225129_3202719425374393832_n.jpg?oh=f617abdc1724717b8f93013665fa5319&oe=55EA511A";
+privacy =         {
+allow = "";
+deny = "";
+description = "Your friends";
+friends = "";
+value = "ALL_FRIENDS";
+};
+"status_type" = "added_photos";
+story = "Hector Rodriguez Jr. with Jackie Vay";
+"story_tags" =         {
+0 =             (
+{
+id = 827722643978094;
+length = 20;
+name = "Hector Rodriguez Jr.";
+offset = 0;
+type = user;
+}
+);
+26 =             (
+{
+id = 10203143126259299;
+length = 10;
+name = "Jackie Vay";
+offset = 26;
+type = user;
+}
+);
+};
+subscribed = 1;
+type = photo;
+"updated_time" = "2015-05-22T22:17:07+0000";
+"with_tags" =         {
+data =             (
+{
+id = 10203143126259299;
+name = "Jackie Vay";
+}
+);
+};
+},
+{
+actions =         (
+{
+link = "https://www.facebook.com/827722643978094/posts/820264748057217";
+name = Comment;
+},
+{
+link = "https://www.facebook.com/827722643978094/posts/820264748057217";
+name = Like;
+}
+);
+application =         {
+id = 124024574287414;
+name = Instagram;
+namespace = instapp;
+};
+caption = "Hector Rodriguez on Instagram: \U201cNew Mac Pro at work\U201d";
+comments =         {
+data =             (
+{
+"can_remove" = 1;
+"created_time" = "2015-05-18T15:04:58+0000";
+from =                     {
+id = 10203062997770811;
+name = "Paul Roth";
+};
+id = "820264754723883_820269548056737";
+"like_count" = 1;
+message = "Im going to put candy in the top";
+"user_likes" = 0;
+},
+{
+"can_remove" = 1;
+"created_time" = "2015-05-19T01:02:12+0000";
+from =                     {
+id = 10103042232533707;
+name = "Blake Ball";
+};
+id = "820264754723883_820433278040364";
+"like_count" = 0;
+message = "I for one welcome our new death star trashcan";
+"user_likes" = 0;
+}
+);
+paging =             {
+cursors =                 {
+after = "WTI5dGJXVnVkRjlqZFhKemIzSTZPREl3TkRNek1qYzRNRFF3TXpZME9qRTBNekU1T1Rjek16ST0=";
+before = "WTI5dGJXVnVkRjlqZFhKemIzSTZPREl3TWpZNU5UUTRNRFUyTnpNM09qRTBNekU1TmpFME9UZz0=";
+};
+};
+};
+"created_time" = "2015-05-18T14:46:19+0000";
+description = "New Mac Pro at work";
+from =         {
+id = 827722643978094;
+name = "Hector Rodriguez Jr.";
+};
+icon = "https://www.facebook.com/images/icons/post.gif";
+id = "827722643978094_820264748057217";
+"is_expired" = 0;
+"is_hidden" = 0;
+likes =         {
+data =             (
+{
+id = 10152773791037003;
+name = "Just Jason";
+},
+{
+id = 10203905419746738;
+name = "Alexandria Ruth Nemelka";
+},
+{
+id = 10103042232533707;
+name = "Blake Ball";
+},
+{
+id = 10204583011759338;
+name = "Andr\U00e9 Perazzi";
+},
+{
+id = 10153372546368188;
+name = "Jon Wetzel";
+},
+{
+id = 831815940188743;
+name = "Darius Sutton";
+},
+{
+id = 10155637947000137;
+name = "Wil Sal";
+},
+{
+id = 10155704998370437;
+name = "Jeffrey Hill";
+},
+{
+id = 10153878499688098;
+name = "Michael Sterl";
+},
+{
+id = 10103021745709241;
+name = "Bethany Heck";
+},
+{
+id = 1018931718118042;
+name = "Paul Vollmer";
+},
+{
+id = 10100446706922979;
+name = "Jessie Farris";
+},
+{
+id = 10155675709425512;
+name = "Kyle Craig";
+}
+);
+paging =             {
+cursors =                 {
+after = "MTAxNTU2NzU3MDk0MjU1MTI=";
+before = "MTAxNTI3NzM3OTEwMzcwMDM=";
+};
+};
+};
+link = "https://www.facebook.com/photo.php?fbid=820264754723883&set=a.318237421593288.76044.100002210988360&type=1";
+message = "New Mac Pro at work";
+name = "Hector Rodriguez on Instagram: \U201cNew Mac Pro at work\U201d";
+"object_id" = 820264754723883;
+picture = "https://scontent.xx.fbcdn.net/hphotos-xtp1/v/t1.0-9/p130x130/11046776_820264754723883_4951533935719457472_n.jpg?oh=c57f3aa486213d33ee10e0f72a352a52&oe=55F1AF81";
+privacy =         {
+allow = "";
+deny = "";
+description = "Your friends";
+friends = "";
+value = "ALL_FRIENDS";
+};
+"status_type" = "added_photos";
+subscribed = 1;
+type = photo;
+"updated_time" = "2015-05-19T01:02:12+0000";
+},
+{
+actions =         (
+{
+link = "https://www.facebook.com/827722643978094/posts/819639478119744";
+name = Comment;
+},
+{
+link = "https://www.facebook.com/827722643978094/posts/819639478119744";
+name = Like;
+}
+);
+application =         {
+id = 124024574287414;
+name = Instagram;
+namespace = instapp;
+};
+caption = "Hector Rodriguez on Instagram: \U201cThank you to everyone who came out. Crawfish Boil Success!\U201d";
+comments =         {
+data =             (
+{
+"can_remove" = 1;
+"created_time" = "2015-05-17T03:10:25+0000";
+from =                     {
+id = 10153477929045864;
+name = "Matthew Perez";
+};
+id = "819639491453076_819688124781546";
+"like_count" = 0;
+message = "o m g";
+"user_likes" = 0;
+}
+);
+paging =             {
+cursors =                 {
+after = "WTI5dGJXVnVkRjlqZFhKemIzSTZPREU1TmpnNE1USTBOemd4TlRRMk9qRTBNekU0TXpJeU1qVT0=";
+before = "WTI5dGJXVnVkRjlqZFhKemIzSTZPREU1TmpnNE1USTBOemd4TlRRMk9qRTBNekU0TXpJeU1qVT0=";
+};
+};
+};
+"created_time" = "2015-05-17T00:36:03+0000";
+description = "Thank you to everyone who came out. Crawfish Boil Success!";
+from =         {
+id = 827722643978094;
+name = "Hector Rodriguez Jr.";
+};
+icon = "https://www.facebook.com/images/icons/post.gif";
+id = "827722643978094_819639478119744";
+"is_expired" = 0;
+"is_hidden" = 0;
+likes =         {
+data =             (
+{
+id = 3866511783132;
+name = "Ellen Saathoff";
+},
+{
+id = 10103215264955153;
+name = "Ally Esquibel";
+},
+{
+id = 10206771981288891;
+name = "Jon Ballands";
+},
+{
+id = 10153450569757216;
+name = "Jamie Richardson";
+},
+{
+id = 1613156388965263;
+name = "Shontae Powell";
+},
+{
+id = 10103042232533707;
+name = "Blake Ball";
+},
+{
+id = 10204317581765850;
+name = "Harrison Saylor";
+},
+{
+id = 822003911247;
+name = "Roque Luis Pe\U00f1a";
+},
+{
+id = 10155637947000137;
+name = "Wil Sal";
+},
+{
+id = 10152886533406752;
+name = "Gary Cooper Jr.";
+},
+{
+id = 10153519318509734;
+name = "Suchada Sutasirisap";
+},
+{
+id = 10152917635766938;
+name = "Melina Khat";
+},
+{
+id = 10103021745709241;
+name = "Bethany Heck";
+},
+{
+id = 935367066514917;
+name = "Justine Heflin";
+},
+{
+id = 956056601082973;
+name = "Irene Rodriguez";
+},
+{
+id = 10153115031752599;
+name = "Carmen Salcedo";
+},
+{
+id = 10153087709068962;
+name = "Taffie Coler";
+},
+{
+id = 10153372546368188;
+name = "Jon Wetzel";
+},
+{
+id = 2369909018914;
+name = "Brett Waggoner";
+},
+{
+id = 10206818302766105;
+name = "Cindy Rodriguez-Salcedo";
+},
+{
+id = 10153329427354501;
+name = "Nickel Joseph Play";
+},
+{
+id = 831815940188743;
+name = "Darius Sutton";
+},
+{
+id = 10153262269876357;
+name = "Becky Bachman";
+},
+{
+id = 10106630308859774;
+name = "Tania Corina Zanabria";
+},
+{
+id = 607531760443;
+name = "Teddy Flandreau";
+}
+);
+paging =             {
+cursors =                 {
+after = NjA3NTMxNzYwNDQz;
+before = "Mzg2NjUxMTc4MzEzMg==";
+};
+next = "https://graph.facebook.com/v2.3/100002210988360_819639478119744/likes?access_token=CAAMOqR8Wzw4BAJHSsB4awPDHhmEnu6uNPePZC3yaJgSzbHZCasBXggezO4ZA83kEevSfoebZBiUbnnsw7vSAG9ZArIqzytDzmXcJ8bF7vskG1uiZBCwqdlYDm3ikh2VhsRmOS7D35qswYIPZAwDIHxZA2iIcsBwFsercWCq49XHbUOXl1KEHjiZBq4KKEHpg76wfhrxOG0ZAeUIb4VB7sLj0ZBGRQfCI40GnaaYN69jPOpkMgZDZD&limit=25&after=NjA3NTMxNzYwNDQz";
+};
+};
+link = "https://www.facebook.com/photo.php?fbid=819639491453076&set=a.318237421593288.76044.100002210988360&type=1";
+message = "Thank you to everyone who came out. Crawfish Boil Success!";
+name = "Hector Rodriguez on Instagram: \U201cThank you to everyone who came out. Crawfish Boil Success!\U201d";
+"object_id" = 819639491453076;
+picture = "https://scontent.xx.fbcdn.net/hphotos-xtf1/v/t1.0-9/p130x130/11259812_819639491453076_9083561582504870987_n.jpg?oh=cb9e7d9f3921de57da1dbf70e35ef7ab&oe=55F38E64";
+privacy =         {
+allow = "";
+deny = "";
+description = "Your friends";
+friends = "";
+value = "ALL_FRIENDS";
+};
+"status_type" = "added_photos";
+subscribed = 1;
+type = photo;
+"updated_time" = "2015-05-17T03:10:25+0000";
+},
+{
+actions =         (
+{
+link = "https://www.facebook.com/827722643978094/posts/818445064905852";
+name = Comment;
+},
+{
+link = "https://www.facebook.com/827722643978094/posts/818445064905852";
+name = Like;
+}
+);
+caption = "cottonbureau.com";
+comments =         {
+data =             (
+{
+"can_remove" = 1;
+"created_time" = "2015-05-13T21:54:00+0000";
+from =                     {
+id = 827722643978094;
+name = "Hector Rodriguez Jr.";
+};
+id = "818445064905852_818450564905302";
+"like_count" = 0;
+message = "Bernadette Josephs";
+"message_tags" =                     (
+{
+id = 10205923108453495;
+length = 18;
+name = "Bernadette Josephs";
+offset = 0;
+type = user;
+}
+);
+"user_likes" = 0;
+}
+);
+paging =             {
+cursors =                 {
+after = "WTI5dGJXVnVkRjlqZFhKemIzSTZPREU0TkRVd05UWTBPVEExTXpBeU9qRTBNekUxTlRRd05EQT0=";
+before = "WTI5dGJXVnVkRjlqZFhKemIzSTZPREU0TkRVd05UWTBPVEExTXpBeU9qRTBNekUxTlRRd05EQT0=";
+};
+};
+};
+"created_time" = "2015-05-13T21:23:21+0000";
+description = "Water-Based ink on Athletic Grey Tri-Blend American Apparel.";
+from =         {
+id = 827722643978094;
+name = "Hector Rodriguez Jr.";
+};
+icon = "https://www.facebook.com/images/icons/post.gif";
+id = "827722643978094_818445064905852";
+"is_expired" = 0;
+"is_hidden" = 0;
+likes =         {
+data =             (
+{
+id = 10103215264950163;
+name = "Emm Kay";
+},
+{
+id = 10155637947000137;
+name = "Wil Sal";
+},
+{
+id = 10205923108453495;
+name = "Bernadette Josephs";
+},
+{
+id = 10203143126259299;
+name = "Jackie Vay";
+},
+{
+id = 10155577786225251;
+name = "Jessa West";
+},
+{
+id = 3715047200079;
+name = "Katherine Rainey";
+}
+);
+paging =             {
+cursors =                 {
+after = "MzcxNTA0NzIwMDA3OQ==";
+before = "MTAxMDMyMTUyNjQ5NTAxNjM=";
+};
+};
+};
+link = "https://cottonbureau.com/products/yall";
+message = "I know there were a some people who asked for this when I posted a picture. It's available to purchase for the next two weeks.";
+name = "Y'all by Katherine Rainey";
+picture = "https://fbexternal-a.akamaihd.net/safe_image.php?d=AQA6ikLaCHr5lBXO&w=130&h=130&url=https%3A%2F%2Fcottonbureau.com%2Fimg%2Fproducts%2F2940_GOtS_1200.jpg&cfs=1";
+privacy =         {
+allow = "";
+deny = "";
+description = "Your friends";
+friends = "";
+value = "ALL_FRIENDS";
+};
+"status_type" = "shared_story";
+subscribed = 1;
+type = link;
+"updated_time" = "2015-05-13T21:54:00+0000";
+},
+{
+actions =         (
+{
+link = "https://www.facebook.com/827722643978094/posts/818043151612710";
+name = Comment;
+},
+{
+link = "https://www.facebook.com/827722643978094/posts/818043151612710";
+name = Like;
+}
+);
+application =         {
+id = 124024574287414;
+name = Instagram;
+namespace = instapp;
+};
+caption = "Hector Rodriguez on Instagram: \U201cAtlantic to Pacific in the past month \Ud83d\Ude0a\U201d";
+comments =         {
+data =             (
+{
+"can_remove" = 1;
+"created_time" = "2015-05-12T19:00:07+0000";
+from =                     {
+id = 880716869518;
+name = "Ketaki Borkar Jattani";
+};
+id = "818043158279376_818056044944754";
+"like_count" = 0;
+message = "La Jolla Shores?";
+"user_likes" = 0;
+},
+{
+"can_remove" = 1;
+"created_time" = "2015-05-12T19:15:08+0000";
+from =                     {
+id = 827722643978094;
+name = "Hector Rodriguez Jr.";
+};
+id = "818043158279376_818059428277749";
+"like_count" = 0;
+message = Yup;
+"user_likes" = 0;
+},
+{
+"can_remove" = 1;
+"created_time" = "2015-05-13T03:14:35+0000";
+from =                     {
+id = 919671991386263;
+name = "Raymond Owens";
+};
+id = "818043158279376_818161198267572";
+"like_count" = 0;
+message = "I'll be back in town around 10. If your not in bed already.";
+"user_likes" = 0;
+}
+);
+paging =             {
+cursors =                 {
+after = "WTI5dGJXVnVkRjlqZFhKemIzSTZPREU0TVRZeE1UazRNalkzTlRjeU9qRTBNekUwT0RZNE56VT0=";
+before = "WTI5dGJXVnVkRjlqZFhKemIzSTZPREU0TURVMk1EUTBPVFEwTnpVME9qRTBNekUwTlRjeU1EYz0=";
+};
+};
+};
+"created_time" = "2015-05-12T17:59:33+0000";
+description = "Atlantic to Pacific in the past month  \Ud83d\Ude0a";
+from =         {
+id = 827722643978094;
+name = "Hector Rodriguez Jr.";
+};
+icon = "https://www.facebook.com/images/icons/post.gif";
+id = "827722643978094_818043151612710";
+"is_expired" = 0;
+"is_hidden" = 0;
+likes =         {
+data =             (
+{
+id = 848353585199737;
+name = "Jose Noel Franceschini";
+},
+{
+id = 956056601082973;
+name = "Irene Rodriguez";
+},
+{
+id = 10206946634969704;
+name = "Hector L. Rodriguez";
+},
+{
+id = 10155637947000137;
+name = "Wil Sal";
+},
+{
+id = 10153080433448073;
+name = "Geraldine Salcedo";
+},
+{
+id = 10206791534856347;
+name = "Narine Cholakyan";
+},
+{
+id = 10153115031752599;
+name = "Carmen Salcedo";
+},
+{
+id = 919671991386263;
+name = "Raymond Owens";
+},
+{
+id = 10153399206861532;
+name = "Lindsay Rife";
+},
+{
+id = 10205923108453495;
+name = "Bernadette Josephs";
+},
+{
+id = 831815940188743;
+name = "Darius Sutton";
+},
+{
+id = 1001530723190268;
+name = "Sarah Garza";
+},
+{
+id = 10153356205037964;
+name = "Sarah Robinson";
+},
+{
+id = 10206818302766105;
+name = "Cindy Rodriguez-Salcedo";
+},
+{
+id = 10155810960835438;
+name = "Trisha Elaine";
+},
+{
+id = 10103021745709241;
+name = "Bethany Heck";
+},
+{
+id = 10205476236579819;
+name = "Joey Chavez";
+},
+{
+id = 10203062997770811;
+name = "Paul Roth";
+},
+{
+id = 10155577786225251;
+name = "Jessa West";
+},
+{
+id = 880716869518;
+name = "Ketaki Borkar Jattani";
+},
+{
+id = 10153361451499127;
+name = "Jamie Connelly";
+},
+{
+id = 2369909018914;
+name = "Brett Waggoner";
+},
+{
+id = 1018931718118042;
+name = "Paul Vollmer";
+}
+);
+paging =             {
+cursors =                 {
+after = "MTAxODkzMTcxODExODA0Mg==";
+before = ODQ4MzUzNTg1MTk5NzM3;
+};
+};
+};
+link = "https://www.facebook.com/photo.php?fbid=818043158279376&set=a.318237421593288.76044.100002210988360&type=1";
+message = "Atlantic to Pacific in the past month  \Ud83d\Ude0a";
+name = "Hector Rodriguez on Instagram: \U201cAtlantic to Pacific in the past month \Ud83d\Ude0a\U201d";
+"object_id" = 818043158279376;
+picture = "https://scontent.xx.fbcdn.net/hphotos-xtf1/v/t1.0-9/p130x130/11258528_818043158279376_1714751591258103802_n.jpg?oh=0e4bca41184eb44c665fac2fb0d07aa1&oe=55E86A68";
+privacy =         {
+allow = "";
+deny = "";
+description = "Your friends";
+friends = "";
+value = "ALL_FRIENDS";
+};
+"status_type" = "added_photos";
+subscribed = 1;
+type = photo;
+"updated_time" = "2015-05-13T03:14:35+0000";
+},
+{
+actions =         (
+{
+link = "https://www.facebook.com/827722643978094/posts/817976851619340";
+name = Comment;
+},
+{
+link = "https://www.facebook.com/827722643978094/posts/817976851619340";
+name = Like;
+}
+);
+application =         {
+id = 124024574287414;
+name = Instagram;
+namespace = instapp;
+};
+caption = "Hector Rodriguez on Instagram: \U201cCouldn't not come here.  @snoozeameatery #sandiego\U201d";
+"created_time" = "2015-05-12T14:21:55+0000";
+description = "Couldn't not come here.  @snoozeameatery #sandiego";
+from =         {
+id = 827722643978094;
+name = "Hector Rodriguez Jr.";
+};
+icon = "https://www.facebook.com/images/icons/post.gif";
+id = "827722643978094_817976851619340";
+"is_expired" = 0;
+"is_hidden" = 0;
+link = "https://www.facebook.com/photo.php?fbid=817976858286006&set=a.318237421593288.76044.100002210988360&type=1";
+message = "Couldn't not come here.  @snoozeameatery #sandiego";
+name = "Hector Rodriguez on Instagram: \U201cCouldn't not come here.  @snoozeameatery #sandiego\U201d";
+"object_id" = 817976858286006;
+picture = "https://scontent.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/p130x130/11221840_817976858286006_2689158855213769010_n.jpg?oh=32f5a69427dc1dbe0bb7a31b630de334&oe=5607EE3E";
+privacy =         {
+allow = "";
+deny = "";
+description = "Your friends";
+friends = "";
+value = "ALL_FRIENDS";
+};
+"status_type" = "added_photos";
+subscribed = 1;
+type = photo;
+"updated_time" = "2015-05-12T14:21:55+0000";
+},
+{
+actions =         (
+{
+link = "https://www.facebook.com/827722643978094/posts/817132198370472";
+name = Comment;
+},
+{
+link = "https://www.facebook.com/827722643978094/posts/817132198370472";
+name = Like;
+}
+);
+application =         {
+id = 124024574287414;
+name = Instagram;
+namespace = instapp;
+};
+caption = "Hector Rodriguez on Instagram: \U201cA fun project this weekend with my dad.\U201d";
+comments =         {
+data =             (
+{
+"can_remove" = 1;
+"created_time" = "2015-05-10T01:29:46+0000";
+from =                     {
+id = 919671991386263;
+name = "Raymond Owens";
+};
+id = "817132205037138_817133548370337";
+"like_count" = 0;
+message = Nice;
+"user_likes" = 0;
+},
+{
+"can_remove" = 1;
+"created_time" = "2015-05-10T02:21:19+0000";
+from =                     {
+id = 1001530723190268;
+name = "Sarah Garza";
+};
+id = "817132205037138_817143158369376";
+"like_count" = 0;
+message = "We want one";
+"user_likes" = 0;
+}
+);
+paging =             {
+cursors =                 {
+after = "WTI5dGJXVnVkRjlqZFhKemIzSTZPREUzTVRRek1UVTRNelk1TXpjMk9qRTBNekV5TWpRME56az0=";
+before = "WTI5dGJXVnVkRjlqZFhKemIzSTZPREUzTVRNek5UUTRNemN3TXpNM09qRTBNekV5TWpFek9EWT0=";
+};
+};
+};
+"created_time" = "2015-05-10T01:23:13+0000";
+description = "A fun project this weekend with my dad.";
+from =         {
+id = 827722643978094;
+name = "Hector Rodriguez Jr.";
+};
+icon = "https://www.facebook.com/images/icons/post.gif";
+id = "827722643978094_817132198370472";
+"is_expired" = 0;
+"is_hidden" = 0;
+likes =         {
+data =             (
+{
+id = 10152917635766938;
+name = "Melina Khat";
+},
+{
+id = 10204404030042999;
+name = "Charlie Salcedo";
+},
+{
+id = 10153450569757216;
+name = "Jamie Richardson";
+},
+{
+id = 10205917482315195;
+name = "Linh Cao Cao";
+},
+{
+id = 10205313536131612;
+name = "Julian Castro";
+},
+{
+id = 956056601082973;
+name = "Irene Rodriguez";
+},
+{
+id = 3715047200079;
+name = "Katherine Rainey";
+},
+{
+id = 848353585199737;
+name = "Jose Noel Franceschini";
+},
+{
+id = 10205343052750444;
+name = "Sharon Alt";
+},
+{
+id = 822003911247;
+name = "Roque Luis Pe\U00f1a";
+},
+{
+id = 10155704998370437;
+name = "Jeffrey Hill";
+},
+{
+id = 10206919527171328;
+name = "Maria Marquez";
+},
+{
+id = 1018931718118042;
+name = "Paul Vollmer";
+},
+{
+id = 10204446502507413;
+name = "Sergio Montiel";
+},
+{
+id = 10100497207604215;
+name = "Riqui Bonilla";
+},
+{
+id = 10153051884234965;
+name = "Jacob Cummings";
+},
+{
+id = 10155637947000137;
+name = "Wil Sal";
+},
+{
+id = 10153519318509734;
+name = "Suchada Sutasirisap";
+},
+{
+id = 10155577786225251;
+name = "Jessa West";
+},
+{
+id = 1581288742146850;
+name = "Dylan Salcedo";
+},
+{
+id = 1001530723190268;
+name = "Sarah Garza";
+},
+{
+id = 10204584504228811;
+name = "Sean Saathoff";
+},
+{
+id = 10205923108453495;
+name = "Bernadette Josephs";
+},
+{
+id = 10204424896167983;
+name = "Ben Smith";
+},
+{
+id = 2369909018914;
+name = "Brett Waggoner";
+}
+);
+paging =             {
+cursors =                 {
+after = "MjM2OTkwOTAxODkxNA==";
+before = "MTAxNTI5MTc2MzU3NjY5Mzg=";
+};
+next = "https://graph.facebook.com/v2.3/100002210988360_817132198370472/likes?access_token=CAAMOqR8Wzw4BAJHSsB4awPDHhmEnu6uNPePZC3yaJgSzbHZCasBXggezO4ZA83kEevSfoebZBiUbnnsw7vSAG9ZArIqzytDzmXcJ8bF7vskG1uiZBCwqdlYDm3ikh2VhsRmOS7D35qswYIPZAwDIHxZA2iIcsBwFsercWCq49XHbUOXl1KEHjiZBq4KKEHpg76wfhrxOG0ZAeUIb4VB7sLj0ZBGRQfCI40GnaaYN69jPOpkMgZDZD&limit=25&after=MjM2OTkwOTAxODkxNA%3D%3D";
+};
+};
+link = "https://www.facebook.com/photo.php?fbid=817132205037138&set=a.318237421593288.76044.100002210988360&type=1";
+message = "A fun project this weekend with my dad.";
+name = "Hector Rodriguez on Instagram: \U201cA fun project this weekend with my dad.\U201d";
+"object_id" = 817132205037138;
+picture = "https://scontent.xx.fbcdn.net/hphotos-xta1/v/t1.0-9/p130x130/11206085_817132205037138_4226468439948129688_n.jpg?oh=9419da2142d10221acd415088d315c75&oe=55F3E669";
+privacy =         {
+allow = "";
+deny = "";
+description = "Your friends";
+friends = "";
+value = "ALL_FRIENDS";
+};
+"status_type" = "added_photos";
+subscribed = 1;
+type = photo;
+"updated_time" = "2015-05-10T02:21:19+0000";
+},
+{
+actions =         (
+{
+link = "https://www.facebook.com/827722643978094/posts/10152772879847595";
+name = Comment;
+},
+{
+link = "https://www.facebook.com/827722643978094/posts/10152772879847595";
+name = Like;
+}
+);
+caption = "youtu.be";
+comments =         {
+data =             (
+{
+"can_remove" = 1;
+"created_time" = "2015-05-09T15:50:14+0000";
+from =                     {
+id = 827722643978094;
+name = "Hector Rodriguez Jr.";
+};
+id = "10152772879847595_10152772883342595";
+"like_count" = 0;
+message = "That looks fun! I want to try it. BTW, the road in front of Jackie's house has a hill that would be highly irresponsible to ride. We should do it some time!";
+"message_tags" =                     (
+{
+id = 10203143126259299;
+length = 6;
+name = Jackie;
+offset = 60;
+type = user;
+}
+);
+"user_likes" = 0;
+},
+{
+"can_remove" = 1;
+"created_time" = "2015-05-09T15:51:19+0000";
+from =                     {
+id = 10152836491027595;
+name = "Nathan Hekman";
+};
+id = "10152772879847595_10152772884337595";
+"like_count" = 0;
+message = "YAAAAAAAS I love being irresponsible. Let's do it and I'll bring my goprooooooooo";
+"user_likes" = 0;
+},
+{
+"can_remove" = 1;
+"created_time" = "2015-05-09T16:08:30+0000";
+from =                     {
+id = 827722643978094;
+name = "Hector Rodriguez Jr.";
+};
+id = "10152772879847595_10152772905412595";
+"like_count" = 0;
+message = "Do you think your drone can carry the go pro and keep up with us??????";
+"user_likes" = 0;
+},
+{
+"can_remove" = 1;
+"created_time" = "2015-05-09T16:13:05+0000";
+from =                     {
+id = 10152836491027595;
+name = "Nathan Hekman";
+};
+id = "10152772879847595_10152772940502595";
+"like_count" = 3;
+message = "Yes it attaches perfectly!! Tested and everything!!";
+"user_likes" = 1;
+}
+);
+paging =             {
+cursors =                 {
+after = WTI5dGJXVnVkRjlqZFhKemIzSTZNVEF4TlRJM056STVOREExTURJMU9UVTZNVFF6TVRFNE56azROZz09;
+before = WTI5dGJXVnVkRjlqZFhKemIzSTZNVEF4TlRJM056STRPRE16TkRJMU9UVTZNVFF6TVRFNE5qWXhOUT09;
+};
+};
+};
+"created_time" = "2015-05-09T15:46:59+0000";
+description = "\"Freebord Explained\"- Watch this short explanation of how a Freebord works. http://www.freebord.com Music: Pance Party Check out the ride at http://www.freeb...";
+from =         {
+id = 10152836491027595;
+name = "Nathan Hekman";
+};
+icon = "https://www.facebook.com/images/icons/post.gif";
+id = "827722643978094_10152772879847595";
+"is_expired" = 0;
+"is_hidden" = 0;
+link = "http://youtu.be/pmZa1TP2pHI";
+message = "Have you seen these? Supposed to be like snowboarding except not \n";
+name = "\"Freebord Explained\"";
+picture = "https://fbexternal-a.akamaihd.net/safe_image.php?d=AQCDKqXfRI_4qifC&w=130&h=130&url=http%3A%2F%2Fi.ytimg.com%2Fvi%2FpmZa1TP2pHI%2Fmaxresdefault.jpg&cfs=1";
+privacy =         {
+allow = "";
+deny = "";
+description = "";
+friends = "";
+value = "";
+};
+source = "https://www.youtube.com/embed/pmZa1TP2pHI?autoplay=1";
+"status_type" = "shared_story";
+subscribed = 1;
+to =         {
+data =             (
+{
+id = 827722643978094;
+name = "Hector Rodriguez Jr.";
+}
+);
+};
+type = video;
+"updated_time" = "2015-05-09T16:13:05+0000";
+},
+{
+actions =         (
+{
+link = "https://www.facebook.com/827722643978094/posts/815556591861366";
+name = Comment;
+},
+{
+link = "https://www.facebook.com/827722643978094/posts/815556591861366";
+name = Like;
+}
+);
+application =         {
+id = 124024574287414;
+name = Instagram;
+namespace = instapp;
+};
+caption = "Hector Rodriguez on Instagram: \U201cPurple basil flower in the garden\U201d";
+comments =         {
+data =             (
+{
+"can_remove" = 1;
+"created_time" = "2015-05-05T23:28:22+0000";
+from =                     {
+id = 10152836491027595;
+name = "Nathan Hekman";
+};
+id = "815556595194699_815570708526621";
+"like_count" = 2;
+message = "\"Basil\"";
+"user_likes" = 1;
+},
+{
+"can_remove" = 1;
+"created_time" = "2015-05-06T12:19:42+0000";
+from =                     {
+id = 827722643978094;
+name = "Hector Rodriguez Jr.";
+};
+id = "815556595194699_815777255172633";
+"like_count" = 1;
+message = "Nathan....That took me almost 12 hours to get.";
+"message_tags" =                     (
+{
+id = 10152836491027595;
+length = 6;
+name = Nathan;
+offset = 0;
+type = user;
+}
+);
+"user_likes" = 0;
+}
+);
+paging =             {
+cursors =                 {
+after = "WTI5dGJXVnVkRjlqZFhKemIzSTZPREUxTnpjM01qVTFNVGN5TmpNek9qRTBNekE1TVRRM09EST0=";
+before = "WTI5dGJXVnVkRjlqZFhKemIzSTZPREUxTlRjd056QTROVEkyTmpJeE9qRTBNekE0TmpnMU1EST0=";
+};
+};
+};
+"created_time" = "2015-05-05T22:32:54+0000";
+description = "Purple basil flower in the garden";
+from =         {
+id = 827722643978094;
+name = "Hector Rodriguez Jr.";
+};
+icon = "https://www.facebook.com/images/icons/post.gif";
+id = "827722643978094_815556591861366";
+"is_expired" = 0;
+"is_hidden" = 0;
+likes =         {
+data =             (
+{
+id = 848353585199737;
+name = "Jose Noel Franceschini";
+},
+{
+id = 10103042232533707;
+name = "Blake Ball";
+},
+{
+id = 3866511783132;
+name = "Ellen Saathoff";
+},
+{
+id = 10155637947000137;
+name = "Wil Sal";
+},
+{
+id = 10206946634969704;
+name = "Hector L. Rodriguez";
+},
+{
+id = 10106630308854784;
+name = "Julia Dietsch";
+},
+{
+id = 10152836491027595;
+name = "Nathan Hekman";
+},
+{
+id = 10205923108453495;
+name = "Bernadette Josephs";
+},
+{
+id = 10103021745709241;
+name = "Bethany Heck";
+}
+);
+paging =             {
+cursors =                 {
+after = "MTAxMDMwMjE3NDU3MDkyNDE=";
+before = ODQ4MzUzNTg1MTk5NzM3;
+};
+};
+};
+link = "https://www.facebook.com/photo.php?fbid=815556595194699&set=a.318237421593288.76044.100002210988360&type=1";
+message = "Purple basil flower in the garden";
+name = "Hector Rodriguez on Instagram: \U201cPurple basil flower in the garden\U201d";
+"object_id" = 815556595194699;
+picture = "https://scontent.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/p130x130/11193312_815556595194699_8849090394277677469_n.jpg?oh=64fc6ad6ef6d9f56a5665f0362f15542&oe=55FDA60C";
+privacy =         {
+allow = "";
+deny = "";
+description = "Your friends";
+friends = "";
+value = "ALL_FRIENDS";
+};
+"status_type" = "added_photos";
+subscribed = 1;
+type = photo;
+"updated_time" = "2015-05-06T12:19:42+0000";
+},
+{
+actions =         (
+{
+link = "https://www.facebook.com/827722643978094/posts/814680595282299";
+name = Comment;
+},
+{
+link = "https://www.facebook.com/827722643978094/posts/814680595282299";
+name = Like;
+}
+);
+application =         {
+id = 124024574287414;
+name = Instagram;
+namespace = instapp;
+};
+caption = "Hector Rodriguez on Instagram: \U201cFinally hung a poster in my house. Thanks @jpboneyard!\U201d";
+"created_time" = "2015-05-03T22:58:38+0000";
+description = "Finally hung a poster in my house. Thanks @jpboneyard!";
+from =         {
+id = 827722643978094;
+name = "Hector Rodriguez Jr.";
+};
+icon = "https://www.facebook.com/images/icons/post.gif";
+id = "827722643978094_814680595282299";
+"is_expired" = 0;
+"is_hidden" = 0;
+likes =         {
+data =             (
+{
+id = 944242472262653;
+name = "Alana Louise";
+},
+{
+id = 10155577786225251;
+name = "Jessa West";
+},
+{
+id = 10155637947000137;
+name = "Wil Sal";
+},
+{
+id = 10153115031752599;
+name = "Carmen Salcedo";
+},
+{
+id = 1001530723190268;
+name = "Sarah Garza";
+},
+{
+id = 10102093854401045;
+name = "Belinda Rodriguez";
+},
+{
+id = 3866511783132;
+name = "Ellen Saathoff";
+}
+);
+paging =             {
+cursors =                 {
+after = "Mzg2NjUxMTc4MzEzMg==";
+before = OTQ0MjQyNDcyMjYyNjUz;
+};
+};
+};
+link = "https://www.facebook.com/photo.php?fbid=814680598615632&set=a.318237421593288.76044.100002210988360&type=1";
+message = "Finally hung a poster in my house. Thanks @jpboneyard!";
+name = "Hector Rodriguez on Instagram: \U201cFinally hung a poster in my house. Thanks @jpboneyard!\U201d";
+"object_id" = 814680598615632;
+picture = "https://scontent.xx.fbcdn.net/hphotos-xtp1/v/t1.0-9/p130x130/11209392_814680598615632_241344562788476579_n.jpg?oh=9bc79572e80752c507ebc4ec1ef40a63&oe=56004FC7";
+privacy =         {
+allow = "";
+deny = "";
+description = "Your friends";
+friends = "";
+value = "ALL_FRIENDS";
+};
+"status_type" = "added_photos";
+subscribed = 1;
+type = photo;
+"updated_time" = "2015-05-03T22:58:38+0000";
+},
+{
+actions =         (
+{
+link = "https://www.facebook.com/827722643978094/posts/814668255283533";
+name = Comment;
+},
+{
+link = "https://www.facebook.com/827722643978094/posts/814668255283533";
+name = Like;
+}
+);
+application =         {
+id = 124024574287414;
+name = Instagram;
+namespace = instapp;
+};
+caption = "Hector Rodriguez on Instagram: \U201cNew project: Future Texas flag\U201d";
+comments =         {
+data =             (
+{
+"can_remove" = 1;
+"created_time" = "2015-05-04T05:17:36+0000";
+from =                     {
+id = 10103042232533707;
+name = "Blake Ball";
+};
+id = "814668258616866_814759411941084";
+"like_count" = 0;
+message = "i wonder what teh future texas flag will look like!";
+"user_likes" = 0;
+}
+);
+paging =             {
+cursors =                 {
+after = "WTI5dGJXVnVkRjlqZFhKemIzSTZPREUwTnpVNU5ERXhPVFF4TURnME9qRTBNekEzTVRZMk5UWT0=";
+before = "WTI5dGJXVnVkRjlqZFhKemIzSTZPREUwTnpVNU5ERXhPVFF4TURnME9qRTBNekEzTVRZMk5UWT0=";
+};
+};
+};
+"created_time" = "2015-05-03T22:01:31+0000";
+description = "New project: Future Texas flag";
+from =         {
+id = 827722643978094;
+name = "Hector Rodriguez Jr.";
+};
+icon = "https://www.facebook.com/images/icons/post.gif";
+id = "827722643978094_814668255283533";
+"is_expired" = 0;
+"is_hidden" = 0;
+likes =         {
+data =             (
+{
+id = 1018931718118042;
+name = "Paul Vollmer";
+},
+{
+id = 10155637947000137;
+name = "Wil Sal";
+},
+{
+id = 10153115031752599;
+name = "Carmen Salcedo";
+},
+{
+id = 1001530723190268;
+name = "Sarah Garza";
+},
+{
+id = 10206818302766105;
+name = "Cindy Rodriguez-Salcedo";
+},
+{
+id = 1581288742146850;
+name = "Dylan Salcedo";
+},
+{
+id = 10205923108453495;
+name = "Bernadette Josephs";
+}
+);
+paging =             {
+cursors =                 {
+after = "MTAyMDU5MjMxMDg0NTM0OTU=";
+before = "MTAxODkzMTcxODExODA0Mg==";
+};
+};
+};
+link = "https://www.facebook.com/photo.php?fbid=814668258616866&set=a.318237421593288.76044.100002210988360&type=1";
+message = "New project: Future Texas flag";
+name = "Hector Rodriguez on Instagram: \U201cNew project: Future Texas flag\U201d";
+"object_id" = 814668258616866;
+picture = "https://scontent.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/p130x130/11206002_814668258616866_8549752864684268891_n.jpg?oh=2c0d8b7467dd5918d357f165178863d7&oe=55E807CE";
+privacy =         {
+allow = "";
+deny = "";
+description = "Your friends";
+friends = "";
+value = "ALL_FRIENDS";
+};
+"status_type" = "added_photos";
+subscribed = 1;
+type = photo;
+"updated_time" = "2015-05-04T05:17:36+0000";
+},
+{
+actions =         (
+{
+link = "https://www.facebook.com/827722643978094/posts/814614231955602";
+name = Comment;
+},
+{
+link = "https://www.facebook.com/827722643978094/posts/814614231955602";
+name = Like;
+}
+);
+application =         {
+id = 124024574287414;
+name = Instagram;
+namespace = instapp;
+};
+caption = "Hector Rodriguez on Instagram: \U201cBruschetta for the family. Made with basil from my garden.\U201d";
+"created_time" = "2015-05-03T17:52:03+0000";
+description = "Bruschetta for the family. Made with basil from my garden.";
+from =         {
+id = 827722643978094;
+name = "Hector Rodriguez Jr.";
+};
+icon = "https://www.facebook.com/images/icons/post.gif";
+id = "827722643978094_814614231955602";
+"is_expired" = 0;
+"is_hidden" = 0;
+link = "https://www.facebook.com/photo.php?fbid=814614235288935&set=a.318237421593288.76044.100002210988360&type=1";
+message = "Bruschetta for the family. Made with basil from my garden.";
+name = "Hector Rodriguez on Instagram: \U201cBruschetta for the family. Made with basil from my garden.\U201d";
+"object_id" = 814614235288935;
+picture = "https://scontent.xx.fbcdn.net/hphotos-xat1/v/t1.0-9/p130x130/11182174_814614235288935_6439571210395978451_n.jpg?oh=f8b7b32253e5987165039454640b3519&oe=55F079A2";
+privacy =         {
+allow = "";
+deny = "";
+description = "Your friends";
+friends = "";
+value = "ALL_FRIENDS";
+};
+"status_type" = "added_photos";
+subscribed = 1;
+type = photo;
+"updated_time" = "2015-05-03T22:59:39+0000";
+},
+{
+actions =         (
+{
+link = "https://www.facebook.com/827722643978094/posts/10202898610461231";
+name = Comment;
+},
+{
+link = "https://www.facebook.com/827722643978094/posts/10202898610461231";
+name = Like;
+}
+);
+"created_time" = "2015-04-30T04:52:52+0000";
+description = "Hawkeye from Avengers (aka Jeremy Renner) sings about his lesser-known powers to the tune of Ed Sheeran's \"Thinking Out Loud.\"";
+from =         {
+id = 10203062997770811;
+name = "Paul Roth";
+};
+id = "827722643978094_10202898610461231";
+"is_expired" = 0;
+"is_hidden" = 0;
+link = "https://www.facebook.com/video.php?v=10153281956618896";
+message = "https://www.facebook.com/video.php?v=10153281956618896&fref=nf";
+"message_tags" =         {
+0 =             (
+{
+id = 10153281956618896;
+length = 62;
+name = "";
+offset = 0;
+}
+);
+};
+name = "The Tonight Show Starring Jimmy Fallon";
+picture = "https://fbcdn-vthumb-a.akamaihd.net/hvthumb-ak-xtf1/v/t15.0-10/s130x130/11114539_10153281970798896_20602695_n.jpg?oh=79128e11826d67f4d0f4ce3db9b4b304&oe=55E73D8D&__gda__=1442150635_de374990ed7a8a6252599770d2587c29";
+privacy =         {
+allow = "";
+deny = "";
+description = "";
+friends = "";
+value = "";
+};
+source = "https://video.xx.fbcdn.net/hvideo-xtf1/v/t42.1790-2/11185920_10153281960913896_810711446_n.mp4?efg=eyJybHIiOjM0MywicmxhIjo4NzB9&rl=343&vabr=191&oh=13d869c8be6ac64328fd710278f61d45&oe=55710FAB";
+"status_type" = "shared_story";
+story = "Paul Roth shared a video to your timeline.";
+"story_tags" =         {
+0 =             (
+{
+id = 10203062997770811;
+length = 9;
+name = "Paul Roth";
+offset = 0;
+type = user;
+}
+);
+19 =             (
+{
+id = 10153281956618896;
+length = 5;
+name = "";
+offset = 19;
+}
+);
+33 =             (
+{
+id = 827722643978094;
+length = 8;
+name = "Hector Rodriguez Jr.";
+offset = 33;
+type = user;
+}
+);
+};
+subscribed = 1;
+to =         {
+data =             (
+{
+id = 827722643978094;
+name = "Hector Rodriguez Jr.";
+}
+);
+};
+type = video;
+"updated_time" = "2015-04-30T04:52:52+0000";
+},
+{
+actions =         (
+{
+link = "https://www.facebook.com/827722643978094/posts/811791532237872";
+name = Comment;
+},
+{
+link = "https://www.facebook.com/827722643978094/posts/811791532237872";
+name = Like;
+}
+);
+application =         {
+id = 124024574287414;
+name = Instagram;
+namespace = instapp;
+};
+caption = "Hector Rodriguez on Instagram: \U201cFrom the Pacific to the Atlantic with this dude. (Latergram)\U201d";
+comments =         {
+data =             (
+{
+"can_remove" = 1;
+"created_time" = "2015-04-27T01:05:41+0000";
+from =                     {
+id = 10204453901813135;
+name = "Aaron Cave";
+};
+id = "811791535571205_811820008901691";
+"like_count" = 0;
+message = "Shave that shit!";
+"user_likes" = 0;
+},
+{
+"can_remove" = 1;
+"created_time" = "2015-04-27T01:44:36+0000";
+from =                     {
+id = 10206733724485267;
+name = "Rick Rude";
+};
+id = "811791535571205_811831065567252";
+"like_count" = 1;
+message = "My children look so grown..... lol";
+"user_likes" = 1;
+}
+);
+paging =             {
+cursors =                 {
+after = "WTI5dGJXVnVkRjlqZFhKemIzSTZPREV4T0RNeE1EWTFOVFkzTWpVeU9qRTBNekF3T1Rrd056WT0=";
+before = "WTI5dGJXVnVkRjlqZFhKemIzSTZPREV4T0RJd01EQTRPVEF4TmpreE9qRTBNekF3T1RZM05ERT0=";
+};
+};
+};
+"created_time" = "2015-04-26T23:15:45+0000";
+description = "From the Pacific to the Atlantic with this dude. (Latergram)";
+from =         {
+id = 827722643978094;
+name = "Hector Rodriguez Jr.";
+};
+icon = "https://www.facebook.com/images/icons/post.gif";
+id = "827722643978094_811791532237872";
+"is_expired" = 0;
+"is_hidden" = 0;
+likes =         {
+data =             (
+{
+id = 2369909018914;
+name = "Brett Waggoner";
+},
+{
+id = 10153477929050864;
+name = "Chelsea Cortez";
+},
+{
+id = 10206520501360263;
+name = "FayThe Marie";
+},
+{
+id = 1007275985962855;
+name = "Adam Allen";
+},
+{
+id = 10106240139746860;
+name = "Summer Fosdick";
+},
+{
+id = 10153361451499127;
+name = "Jamie Connelly";
+},
+{
+id = 10152917268336381;
+name = "Mary Gladwell";
+},
+{
+id = 10206859074417927;
+name = "Ryan Byrd";
+},
+{
+id = 10153524080244994;
+name = "Krystina Michaud";
+},
+{
+id = 10206733724485267;
+name = "Rick Rude";
+},
+{
+id = 10153390960742433;
+name = "Michelle Whittle Vollmer";
+},
+{
+id = 980658145278319;
+name = "Josh Moore";
+},
+{
+id = 10204424896167983;
+name = "Ben Smith";
+},
+{
+id = 10204635462752152;
+name = "Jill Palmer";
+},
+{
+id = 733290260150998;
+name = "Justin Halverson";
+},
+{
+id = 10155637947000137;
+name = "Wil Sal";
+},
+{
+id = 10203409377669849;
+name = "Jordan Joseph Evans";
+},
+{
+id = 10204446502507413;
+name = "Sergio Montiel";
+},
+{
+id = 1138337306193026;
+name = "Abel Kapono";
+}
+);
+paging =             {
+cursors =                 {
+after = "MTEzODMzNzMwNjE5MzAyNg==";
+before = "MjM2OTkwOTAxODkxNA==";
+};
+};
+};
+link = "https://www.facebook.com/photo.php?fbid=811791535571205&set=a.318237421593288.76044.100002210988360&type=1";
+message = "From the Pacific to the Atlantic with this dude. (Latergram)";
+name = "Hector Rodriguez on Instagram: \U201cFrom the Pacific to the Atlantic with this dude. (Latergram)\U201d";
+"object_id" = 811791535571205;
+picture = "https://scontent.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/p130x130/1975154_811791535571205_554984168730908269_n.jpg?oh=aee89165bec64767953b3a118817b38f&oe=55EC1668";
+privacy =         {
+allow = "";
+deny = "";
+description = "Your friends";
+friends = "";
+value = "ALL_FRIENDS";
+};
+"status_type" = "added_photos";
+story = "Hector Rodriguez Jr. with Paul Vollmer";
+"story_tags" =         {
+0 =             (
+{
+id = 827722643978094;
+length = 20;
+name = "Hector Rodriguez Jr.";
+offset = 0;
+type = user;
+}
+);
+26 =             (
+{
+id = 1018931718118042;
+length = 12;
+name = "Paul Vollmer";
+offset = 26;
+type = user;
+}
+);
+};
+subscribed = 1;
+type = photo;
+"updated_time" = "2015-04-27T01:44:36+0000";
+"with_tags" =         {
+data =             (
+{
+id = 1018931718118042;
+name = "Paul Vollmer";
+}
+);
+};
+},
+{
+actions =         (
+{
+link = "https://www.facebook.com/827722643978094/posts/810962745654084";
+name = Comment;
+},
+{
+link = "https://www.facebook.com/827722643978094/posts/810962745654084";
+name = Like;
+}
+);
+application =         {
+id = 124024574287414;
+name = Instagram;
+namespace = instapp;
+};
+caption = "Hector Rodriguez on Instagram: \U201cReunited with Paul Vollmer once again!\U201d";
+comments =         {
+data =             (
+{
+"can_remove" = 1;
+"created_time" = "2015-04-25T21:05:44+0000";
+from =                     {
+id = 10153524080244994;
+name = "Krystina Michaud";
+};
+id = "810962748987417_811293678954324";
+"like_count" = 0;
+message = "\Ud83d\Ude03 How long are you in town!?";
+"user_likes" = 0;
+},
+{
+"can_remove" = 1;
+"created_time" = "2015-04-25T21:10:43+0000";
+from =                     {
+id = 827722643978094;
+name = "Hector Rodriguez Jr.";
+};
+id = "810962748987417_811295145620844";
+"like_count" = 0;
+message = "It was a super short trip. I'm at the airport :(";
+"user_likes" = 0;
+},
+{
+"can_remove" = 1;
+"created_time" = "2015-04-25T21:11:21+0000";
+from =                     {
+id = 10153524080244994;
+name = "Krystina Michaud";
+};
+id = "810962748987417_811295265620832";
+"like_count" = 0;
+message = "Oh man! Come back to Cackalacky soon!!!";
+"user_likes" = 0;
+},
+{
+"can_remove" = 1;
+"created_time" = "2015-04-25T21:11:39+0000";
+from =                     {
+id = 827722643978094;
+name = "Hector Rodriguez Jr.";
+};
+id = "810962748987417_811295322287493";
+"like_count" = 0;
+message = "Yes'm!";
+"user_likes" = 0;
+},
+{
+"can_remove" = 1;
+"created_time" = "2015-04-26T03:58:06+0000";
+from =                     {
+id = 10155615452545371;
+name = "Martine Braddy";
+};
+id = "810962748987417_811397375610621";
+"like_count" = 0;
+message = "Omg!!!!!";
+"user_likes" = 0;
+},
+{
+"can_remove" = 1;
+"created_time" = "2015-04-26T07:02:21+0000";
+from =                     {
+id = 1640599336158485;
+name = "Krystial Cebe";
+};
+id = "810962748987417_811479005602458";
+"like_count" = 0;
+message = "Oh you boys... :-)";
+"user_likes" = 0;
+}
+);
+paging =             {
+cursors =                 {
+after = "WTI5dGJXVnVkRjlqZFhKemIzSTZPREV4TkRjNU1EQTFOakF5TkRVNE9qRTBNekF3TXpFM05ERT0=";
+before = "WTI5dGJXVnVkRjlqZFhKemIzSTZPREV4TWprek5qYzRPVFUwTXpJME9qRTBNams1T1RVNU5EUT0=";
+};
+};
+};
+"created_time" = "2015-04-25T04:37:31+0000";
+description = "Reunited with Paul Vollmer once again!";
+from =         {
+id = 827722643978094;
+name = "Hector Rodriguez Jr.";
+};
+icon = "https://www.facebook.com/images/icons/post.gif";
+id = "827722643978094_810962745654084";
+"is_expired" = 0;
+"is_hidden" = 0;
+likes =         {
+data =             (
+{
+id = 10203981256761861;
+name = "Leonardo Baker";
+},
+{
+id = 2369909018914;
+name = "Brett Waggoner";
+},
+{
+id = 10152860780936975;
+name = "Kristin Alt";
+},
+{
+id = 10100884176874757;
+name = "Angie Nichols";
+},
+{
+id = 10153359110064581;
+name = "Drew Leonard";
+},
+{
+id = 1640599336158485;
+name = "Krystial Cebe";
+},
+{
+id = 10206753064046108;
+name = "Rachel Elizabeth Smith";
+},
+{
+id = 10155615452545371;
+name = "Martine Braddy";
+},
+{
+id = 489994531148287;
+name = "Lisa Calderoni";
+},
+{
+id = 10152917268336381;
+name = "Mary Gladwell";
+},
+{
+id = 10206733724485267;
+name = "Rick Rude";
+},
+{
+id = 10207036121083878;
+name = "Ronald Romero";
+},
+{
+id = 10204635462752152;
+name = "Jill Palmer";
+},
+{
+id = 871432586225931;
+name = "Lewis Coppernoll";
+},
+{
+id = 10100164968106401;
+name = "Cristina Taylor Gentile";
+},
+{
+id = 10204424896167983;
+name = "Ben Smith";
+},
+{
+id = 10153390960742433;
+name = "Michelle Whittle Vollmer";
+},
+{
+id = 980658145278319;
+name = "Josh Moore";
+},
+{
+id = 360069370859418;
+name = "Chris Swartz";
+},
+{
+id = 10155637947000137;
+name = "Wil Sal";
+},
+{
+id = 10203409377669849;
+name = "Jordan Joseph Evans";
+},
+{
+id = 10205687927628997;
+name = "Miguel Salcedo";
+},
+{
+id = 10205923108453495;
+name = "Bernadette Josephs";
+},
+{
+id = 10153056557367800;
+name = "Jimmy Johner";
+},
+{
+id = 10206805637088283;
+name = "Tyler Hentze";
+}
+);
+paging =             {
+cursors =                 {
+after = "MTAyMDY4MDU2MzcwODgyODM=";
+before = "MTAyMDM5ODEyNTY3NjE4NjE=";
+};
+next = "https://graph.facebook.com/v2.3/100002210988360_810962745654084/likes?access_token=CAAMOqR8Wzw4BAJHSsB4awPDHhmEnu6uNPePZC3yaJgSzbHZCasBXggezO4ZA83kEevSfoebZBiUbnnsw7vSAG9ZArIqzytDzmXcJ8bF7vskG1uiZBCwqdlYDm3ikh2VhsRmOS7D35qswYIPZAwDIHxZA2iIcsBwFsercWCq49XHbUOXl1KEHjiZBq4KKEHpg76wfhrxOG0ZAeUIb4VB7sLj0ZBGRQfCI40GnaaYN69jPOpkMgZDZD&limit=25&after=MTAyMDY4MDU2MzcwODgyODM%3D";
+};
+};
+link = "https://www.facebook.com/photo.php?fbid=810962748987417&set=a.318237421593288.76044.100002210988360&type=1";
+message = "Reunited with Paul Vollmer once again!";
+name = "Hector Rodriguez on Instagram: \U201cReunited with Paul Vollmer once again!\U201d";
+"object_id" = 810962748987417;
+picture = "https://scontent.xx.fbcdn.net/hphotos-xtp1/v/t1.0-9/p130x130/11156274_810962748987417_2544794984866746239_n.jpg?oh=c83ce9657d6f77dc382eacfded475745&oe=560D2049";
+privacy =         {
+allow = "";
+deny = "";
+description = "Your friends";
+friends = "";
+value = "ALL_FRIENDS";
+};
+"status_type" = "added_photos";
+story = "Hector Rodriguez Jr. with Paul Vollmer";
+"story_tags" =         {
+0 =             (
+{
+id = 827722643978094;
+length = 20;
+name = "Hector Rodriguez Jr.";
+offset = 0;
+type = user;
+}
+);
+26 =             (
+{
+id = 1018931718118042;
+length = 12;
+name = "Paul Vollmer";
+offset = 26;
+type = user;
+}
+);
+};
+subscribed = 1;
+type = photo;
+"updated_time" = "2015-04-26T07:02:21+0000";
+"with_tags" =         {
+data =             (
+{
+id = 1018931718118042;
+name = "Paul Vollmer";
+}
+);
+};
+}
+))
+(lldb)
